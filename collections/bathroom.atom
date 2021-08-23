@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://americanpillowcase.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://americanpillowcase.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://americanpillowcase.com/collections/bathroom.atom"/>
+  <title>American Pillowcase</title>
+  <updated>2021-03-05T01:44:37-05:00</updated>
+  <author>
+    <name>American Pillowcase</name>
+  </author>
+  <entry>
+    <id>https://americanpillowcase.com/products/6557498572952</id>
+    <published>2021-03-05T01:44:37-05:00</published>
+    <updated>2021-03-05T01:44:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple-1"/>
+    <title>SALBAKOS 6 Piece Bath Towel Set - Turkish Luxury Hotel &amp; Spa Collection - Oeko-TEX Organic - Eco-Friendly Turkish Cotton (Purple)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_9c1e6204-4b2e-481f-8a17-e7e36f4c4c23.jpg?v=1614932136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.99 - 259.99
+            <a href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple-1">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase has been selling Turkish towels for more than 15 years and contracts with only the very best mills in Turkey. Presently American Pillowcase has 5 of the top selling towels on Amazon. This can't be done without making a superb product at a great price.   Towels made in Turkey are softer and more durable because it is the only country which does not use any bleach in the manufacturing process, including white towels.   All Turkish towels are VAT dyed which means the dye is infused into the yarns under high pressure and high temperature for 6-12 hours depending upon the color. This limits any fading of even the brightest colors. Even white towels are dyed white, not bleach white. For maximum color retention and softness, do not use any bleach when washing these towels.   You will feel the softness immediately, and the towels will get softer after each washing. And by using only Turkish cotton and double-stitching all the hems the durability is un-equaled. These towels should last you many years!   In addition, the towels are made in an Oeko-Tex and ISO 9001 mill. This means that all materials must be chemical and pesticide free and that the mill operated at the highest quality standards and is audited regularly. Email me and I will be happy to send you the certificates.  If for any reason, you would not give these 5 stars, please email and let me know.<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>2 Luxury Bath Sheets 35x70</li>
+<li>Matching bath towels (B00GEGLB5C), hand towels (B00KQQTW0W), washcloth (B00GEFSCKA), bath mats (B00J1O3BZ2), and 6 piece sets (B00K6ORZ6C) available . Type in number in () into Amazon search box.</li>
+<li>Extra thick weave. 700+ gsm. All hems are double-stitched for extra durability</li>
+<li>Oeko-Tex and ISO 9001. All Materials are Pesticide and Harmful Chemical Free!</li>
+<li>Aqua is vat dyed for 6+ hours so will remain bright</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Aqua - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Aqua - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Aqua -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Aqua - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Blue / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Blue -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Chocolate / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Chocolate - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Chocolate / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>CambridgeChocolate -BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Chocolate / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Chocolate - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Coral / 4 Piece Set</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Rose - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Coral / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Coral -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Gray - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Gray - Bath Sheet 35x70-FBM</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Gray -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / Bath Towel - Qty 4</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>Cambridge Gray - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Ivory / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Ivory - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Ivory / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Ivory - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Navy / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Navy - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Navy / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Navy - Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Navy / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Navy - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Purple / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Purple - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Purple / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Purple - BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Rose / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Rose - Bath Towels - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Seafoam Green / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Seafoam Green - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Stone / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Stone - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Stone / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk -  Stone v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Stone / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Stone - Bath Towel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk - Taupe v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Taupe - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Taupe - BathTowel- Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Taupe - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>White / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge White - 6 piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>White / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge White - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Yellow / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Yellow - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Yellow / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Yellow -Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6557497589912</id>
+    <published>2021-03-05T01:44:07-05:00</published>
+    <updated>2021-03-05T01:44:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple"/>
+    <title>SALBAKOS 6 Piece Bath Towel Set - Turkish Luxury Hotel &amp; Spa Collection - Oeko-TEX Organic - Eco-Friendly Turkish Cotton (Purple)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_e5538d66-2056-45be-8349-766213f0449d.jpg?v=1614926653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.99 - 259.99
+            <a href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase has been selling Turkish towels for more than 15 years and contracts with only the very best mills in Turkey. Presently American Pillowcase has 5 of the top selling towels on Amazon. This can't be done without making a superb product at a great price.   Towels made in Turkey are softer and more durable because it is the only country which does not use any bleach in the manufacturing process, including white towels.   All Turkish towels are VAT dyed which means the dye is infused into the yarns under high pressure and high temperature for 6-12 hours depending upon the color. This limits any fading of even the brightest colors. Even white towels are dyed white, not bleach white. For maximum color retention and softness, do not use any bleach when washing these towels.   You will feel the softness immediately, and the towels will get softer after each washing. And by using only Turkish cotton and double-stitching all the hems the durability is un-equaled. These towels should last you many years!   In addition, the towels are made in an Oeko-Tex and ISO 9001 mill. This means that all materials must be chemical and pesticide free and that the mill operated at the highest quality standards and is audited regularly. Email me and I will be happy to send you the certificates.  If for any reason, you would not give these 5 stars, please email and let me know.<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>2 Luxury Bath Sheets 35x70</li>
+<li>Matching bath towels (B00GEGLB5C), hand towels (B00KQQTW0W), washcloth (B00GEFSCKA), bath mats (B00J1O3BZ2), and 6 piece sets (B00K6ORZ6C) available . Type in number in () into Amazon search box.</li>
+<li>Extra thick weave. 700+ gsm. All hems are double-stitched for extra durability</li>
+<li>Oeko-Tex and ISO 9001. All Materials are Pesticide and Harmful Chemical Free!</li>
+<li>Aqua is vat dyed for 6+ hours so will remain bright</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Aqua - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Aqua - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Aqua -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Aqua - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Blue / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Blue -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Chocolate / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Chocolate - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Chocolate / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>CambridgeChocolate -BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Chocolate / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Chocolate - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Coral / 4 Piece Set</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Rose - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Coral / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Coral -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Gray - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Gray - Bath Sheet 35x70-FBM</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Gray -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / Bath Towel - Qty 4</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>Cambridge Gray - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Ivory / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Ivory - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Ivory / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Ivory - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Navy / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Navy - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Navy / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Navy - Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Navy / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Navy - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Purple / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Purple - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Purple / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Purple - BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Rose / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Rose - Bath Towels - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Seafoam Green / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Seafoam Green - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Stone / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Stone - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Stone / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk -  Stone v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Stone / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Stone - Bath Towel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk - Taupe v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Taupe - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Taupe - BathTowel- Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Taupe - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>White / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge White - 6 piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>White / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge White - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Yellow / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Yellow - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Yellow / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Yellow -Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549150728344</id>
+    <published>2021-03-01T03:24:12-05:00</published>
+    <updated>2021-03-01T03:24:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-turkish-cotton-hotel-spa-hand-towel-set-16-by-30-inch-box-of-96-gray"/>
+    <title>SALBAKOS Turkish Cotton Hotel &amp; Spa Hand Towels, 16 by 30 Inch, Box of 96 Towels, Gray</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_ce689f7a-d48c-4ef4-bfb1-0325eead985f.jpg?v=1614587053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            418.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Turkey is known for producing some of the highest quality towels, often found in luxury spas and salons alike. These towels are as absorbent as traditional towels, but unlike many others, these will actually get softer and softer with each wash. The double-lock stitched hems prevent these towels from falling apart.<br><br>To ensure years of vibrant color and softness, these bath sheets are never bleached. Even the whites are dyed white through a VAT dyeing process. Color coordinate to your existing bathroom theme, or simply choose the color that fits you best.<br><br>Care Instructions: For maximum color retention and softness, do not use any bleach when washing these towels.<br><br>100% Money Back Guarantee! SALBAKOS stands behind its products. You can return any defective product hassle-free.<br><br>Includes: box of 16 - 16" x 30" Gray Turkish Hand Towel<br><ul>
+<li>☁ THE #1 THICK, SOFT, AND FLUFFY TOWELS - If you are looking for the softest luxury hand towels, then you have found the winner with our Hand Towels. They are 700 GSM and a full pound heavier than other luxury hotel hand towels. Enjoy super absorbent, premium bathroom towels for your home today!</li>
+<li>💯 ENJOY THE BEST TURKISH COTTON TOWELS IN THE WORLD - Did you know our Luxury Hotel &amp; Spa Collection hand Towels are the softest bathroom towels you will ever own? Unlike most towels that get coarse and rough after a few washes, our high-performance luxury hotel towel sets are made with 100% genuine Turkish cotton that gets softer with each use</li>
+<li>☁ UPGRADE YOUR BATHROOMS WITH LUXURY HOTEL &amp; SPA HAND TOWELS - Do you want to upgrade the style and luxury of your home bathrooms? Our extra large towels are much heavier than your average bath towel. The high quality, size, and deluxe 700 GSM makes all the difference in your experience</li>
+<li>💯 GREAT GIFT IDEA - Are you looking for the perfect wedding, anniversary, birthday, Christmas or house-warming gift? If so, you have found an amazing bath towel gift set that will keep giving soft comfort and high-absorbency for years to come</li>
+<li>☁ ENJOY OUR SOFTEST TOWELS GUARANTEE - You deserve the best, and we are here to provide it. Our Hand Towel Set is made from the highest quality soft cotton. All the hems are double-stitched for extra durability. Plus, our hand towels are vat-dyed for 8+ hours so the color remains bright. Click the yellow “Add to Cart” button today, knowing you are getting the best</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549150728344</id>
+      <title>Default Title</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Gray - Hand Towel - v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549148205208</id>
+    <published>2021-03-01T03:22:28-05:00</published>
+    <updated>2021-03-01T03:22:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-bath-towels-sets-luxury-hotel-and-spa-quality-collection-white"/>
+    <title>SALBAKOS Bath Towels Sets Luxury Hotel and Spa Quality Collection (White)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_20023f0d-6254-4c23-b1df-7b3c6a2cf5fb.jpg?v=1614586949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            237.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase has been selling Turkish cotton bath towels for more than 15 years and contracts with only the very best mills in Turkey. Presently American Pillowcase has 5 of the top selling pure cotton bath towels on Amazon. This can't be done without continually providing superb products at great prices. Bath towels made in Turkey are softer and more durable because it is the only country which does not use any bleach in the manufacturing process, including our hotel collection white towels. SALBAKOS luxury cotton towels are great to take to the gym for a workout. You will immediately recognize the quality, much like that of hair towels found at a high end salon. All Turkish bath towels are vat-dyed which means the dye is infused into the yarns under high pressure and high temperature for 6-12 hours depending upon the color. This limits any fading of even the brightest colors. Even our pure white bath towels are dyed white, not bleach white. For maximum color retention and softness, do not use any bleach when washing these Turkish cotton towels. You will feel the softness immediately, and these towels will continually get softer with each washing. And thanks to using only the finest Turkish cotton and double-stitching all the hems, the durability is unequaled. These bath towels should last you many years! In addition, these luxury spa-quality bath towels are made in an Oeko-Tex and ISO 9001 mill. This means that all materials must be chemical-free and pesticide-free and that the mill operates at the highest quality standards and is audited regularly.<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>☁ THE #1 THICK, SOFT, AND FLUFFY TOWELS - If you are looking for the softest luxury bath towels, then you have found the winner with our Salbakos 4-piece Bathroom Towels. They are 700 GSM and a full pound heavier than other luxury hotel bath towels. Enjoy super absorbent, premium bathroom towels for your home today!</li>
+<li>💯 ENJOY THE BEST TURKISH COTTON TOWELS IN THE WORLD - Did you know our Luxury Hotel &amp; Spa Collection Bath Towels are the softest bathroom towels you will ever own? Unlike most towels that get coarse and rough after a few washes, our high-performance luxury hotel towel sets are made with 100% genuine Turkish cotton that gets softer with each use</li>
+<li>☁ UPGRADE YOUR BATHROOMS WITH LUXURY HOTEL &amp; SPA TOWELS - Do you want to upgrade the style and luxury of your home bathrooms? Our extra large towels are 27" x 54" and are much heavier than your average bath towel. The high quality, size, and deluxe 700 GSM makes all the difference in your experience</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549148205208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>CambridgeWhite - BathTowel - Box of 24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549148074136</id>
+    <published>2021-03-01T03:22:24-05:00</published>
+    <updated>2021-03-01T03:22:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/classic-turkish-towels-luxury-bath-towel-set-soft-and-thick-oversized-ribbed-bathroom-towels-made-with-100-turkish-cotton"/>
+    <title>Classic Turkish Towels Luxury Bath Towel Set - Soft and Thick Oversized Ribbed Bathroom Towels Made with 100% Turkish Cotton</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_122ef3dd-45e7-4863-94f1-42116a22591c.jpg?v=1614586945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Luxury Bath Towel Collection Set - Combed Cotton Hotel and Spa Quality Bath Towels - Made with 100% Turkish Cotton Jacquard Rib Style - Made in Turkey (27X54 Bath Towels, Grey)Our Brampton Collection is one of our most luxurious towels yet. Using 100% Turkish combed cotton, our towels will feel soft and plush the instance you touch them. Made with a beautiful and elegant ribbed Jacquard design, our towels will be sure to impress. Our bright optical colors will brighten up your day and any room. Spoil and pamper yourself when you wrap yourself around one of our luxurious bath towels. The Brampton Collection is made for royalty but pay only a fraction of the price by purchasing direct from the manufacturer!ClassicTurkishTowels: All our towels are manufactured and imported from our very own mills in Turkey. We also sell our own line of high end towels, robes, and bath sheets all made with 100% Turkish Cotton. We always use 100% chemical-free high quality unprocessed Turkish combed cotton in all our products.Turkish cotton is prized for its natural long lasting soft texture and luster, which naturally grows in longer, more narrow fibers. This results in more threads per square inch and a natural softer texture without any chemical processing! No other cotton fiber is as naturally soft, absorbent or lustrous without any chemical processing.All purchases are shipped from our own warehouses in the US, so you’ll never wait long for your order. Buy direct from us and save! We stand behind all of our products and accept all unused returns. Please contact us directly so we can accommodate you. Looking for something specific? Contact us and let us know!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549148074136</id>
+      <title>Default Title / Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>BramptonBT2pkBlue_FBM</s:sku>
+      <s:grams>1184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549142896792</id>
+    <published>2021-03-01T03:17:48-05:00</published>
+    <updated>2021-03-01T03:17:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-luxury-hotel-spa-turkish-cotton-12-piece-eco-friendly-washcloth-set-for-bath-13-x-13-inch-navy"/>
+    <title>SALBAKOS Luxury Hotel &amp; Spa Turkish Cotton 12-Piece Eco-Friendly Washcloth Set for Bath, 13 x 13 Inch - Pick Size and Color</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_9f46064f-1afc-4516-96d0-e4d86870b180.jpg?v=1614926652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.32 - 26.50
+            <a href="https://americanpillowcase.com/products/salbakos-luxury-hotel-spa-turkish-cotton-12-piece-eco-friendly-washcloth-set-for-bath-13-x-13-inch-navy">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100% Genuine Turkish Cotton  SALBAKOS Towels are made in Turkey creating softer and more durable towels because it is the only country which does not use any bleach in the manufacturing process. You will feel the softness immediately and will find the perfect color to match your home décor! With Turkish Cotton, the cotton fiber open up more and the towel actually gets softer over time.  Complete The Set With many styles and 16 colors of 100% Genuine Turkish Cotton Towels, SALBAKOS provides the complete package of washcloths, bath towels, hand towels, bath sheets and bath mats to meet all your needs.<br><br>Hand Towels measure 16 x 30 Inches<br><br>Washcloths measure 13 x 13 Inches<br><br>Bath Sheets measure 35 x 75 Inches<br><br>Bath Towels measure 27 x 54 Inches<br><br>Bath Mats measure 20 x 30 Inches<br><br><br>Q1: Can you use bleach on these towels? A1: No, please do not use bleach on these towels. The bleach will dis-color the colored towels and will make fine cotton less soft and break down the cotton fiber for a shorter life.<br><br>Q2: Are SALBAKOS towels chemical free?<br><br>A2:<br><br>Q3: Can I use fabric softener on these towels?<br><br>A3:<br><br>Q4: Do these towels shrink after first wash and dry?<br><br>A4:<br><br>Premium Quality Design  SALBAKOS towels are designed and engineered with double-stitching on the hems creating a durability that is is un-equaled. These towels should provide you many years of comfort and luxury!  All Bath Towels you buy from SALBAKOS are made using the highest quality cotton / yarns. These yarns are spun using only long staple cotton making these extremely soft and durable.<br><br>Washing Instructions  To ensure that your towels stay soft and hold their color, we recommend following these Washing Instructions.<br><br>Before use, we recommend removing excess lint and shedding on the towel<br><br>Towels can be washed in warm or cold water<br><br>Wash before use for the first time as this will get rid of the excess lint and shedding leftover<br><br>Wash Towels alone, do not include with other clothes/loads/colors<br><br>Do not use bleach or fabric softener at any stage of the washing process, this will strip the color away from the towels and will break down the cotton fiber<br><br>We recommend washing towels after 3-4 uses - the more often the better, this helps create a softer, more luxurious feel<br><br><br>Drying Instructions  To ensure that your towels last the test of time we recommend following these Drying Instructions.<br><br>Dry towels right after they come out of the wash to prevent dampness and lingering smell<br><br>Tumble dry on low/medium heat<br><br>Do not Iron the towels to prevent burning and cotton degradation<br><br>Take towels out when they are 95% dry to prevent over-heating<br><br>Wash and Dry 2/3 times before use to ensure maximum absorbency<br><br><br>100% Genuine Turkish Cotton<br>IMPORTED FROM DENIZLI TURKEY<br>12 Luxury Wash Cloths 13"x13" - Aqua<br>Matching bath sheets (B00IM23ST8), bath towels (B00GEGLB5C), hand towels (B00KQQTW0W), bath mats (B00J1O3BZ2), and 6 piece sets (B00K6ORZ6C) available . Type in number in () into Amazon search box.<br>All hems are double-stitched for extra durability<br>Oeko-Tex and ISO 9001. All Materials are Pesticide and Harmful Chemical Free!<br>White is vat dyed for 6+ hours so will remain bright<br><ul>
+<li>CLEAN UP IN LUXURY - These wash cloths measure 13" x 13" and are made of the coziest, combed Turkish cotton. These absorbent, eco-friendly washcloths are created to withstand use after use.</li>
+<li>BRIGHT COLORS THAT LAST - To ensure years of vibrant color, these towels are VAT dyed. This means the dye is infused into the yarns under high pressure and temperature for 6-12 hours.</li>
+<li>ECO-FRIENDLY AND HIGHEST QUALITY – OEKO-TEX Certified - all cotton is grown and all manufacturing processes use no harmful chemicals. Manufactured in an ISO-9001 mill for incredible quality control. See pictures for copies of certifications and below for more on OEKO-TEX</li>
+<li>SOFTER AFTER EACH WASH - These wash cloths are as absorbent as traditional wash cloths, but unlike many others, these will actually get softer and softer with each wash.</li>
+<li>MONEY BACK GUARANTEE – Our company stands behind its products. You can return any defective product hassle-free.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Aqua / Washcloth - Qty 12</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CambridgeAqua-WashCloth-v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Blue / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Blue - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Chocolate / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Chocolate - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Gray / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Gray - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Navy / Washcloth - Qty 12</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Cambridge Navy - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Seafoam Green / Washcloth - Qty 12</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Cambridge Seafoam Green - Washcloths</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Taupe / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Taupe - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>White / Washcloth - Qty 12</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>Cambridge White - Washcloths</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549141323928</id>
+    <published>2021-03-01T03:16:51-05:00</published>
+    <updated>2021-03-01T03:16:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-luxury-hotel-spa-turkish-cotton-6-piece-eco-friendly-hand-towel-set-16-x-30-inch-wine"/>
+    <title>SALBAKOS Luxury Hotel &amp; Spa Turkish Cotton Hand Towels, 16 x 30 Inch - Pick Pack Size and Color</title>
+    <s:type>Home</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_9dde3d4d-7cda-4ecd-8eef-c23a87463325.jpg?v=1614586647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Home<br>
+        <strong>Price: </strong>
+            26.00 - 418.06
+            <a href="https://americanpillowcase.com/products/salbakos-luxury-hotel-spa-turkish-cotton-6-piece-eco-friendly-hand-towel-set-16-x-30-inch-wine">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100% Genuine Turkish Cotton  SALBAKOS Towels are made in Turkey creating softer and more durable towels because it is the only country which does not use any bleach in the manufacturing process. You will feel the softness immediately and will find the perfect color to match your home décor! With Turkish Cotton, the cotton fiber open up more and the towel actually gets softer over time.  Complete The Set With many styles and 16 colors of 100% Genuine Turkish Cotton Towels, SALBAKOS provides the complete package of washcloths, bath towels, hand towels, bath sheets and bath mats to meet all your needs.<br><br>Hand Towels measure 16 x 30 Inches<br><br>Washcloths measure 13 x 13 Inches<br><br>Bath Sheets measure 35 x 75 Inches<br><br>Bath Towels measure 27 x 54 Inches<br><br>Bath Mats measure 20 x 30 Inches<br><br><br>Q1: Can you use bleach on these towels? A1: No, please do not use bleach on these towels. The bleach will dis-color the colored towels and will make fine cotton less soft and break down the cotton fiber for a shorter life.<br><br>Q2: Are SALBAKOS towels chemical free?<br><br>A2:<br><br>Q3: Can I use fabric softener on these towels?<br><br>A3:<br><br>Q4: Do these towels shrink after first wash and dry?<br><br>A4:<br><br>Premium Quality Design  SALBAKOS towels are designed and engineered with double-stitching on the hems creating a durability that is is un-equaled. These towels should provide you many years of comfort and luxury!  All Bath Towels you buy from SALBAKOS are made using the highest quality cotton / yarns. These yarns are spun using only long staple cotton making these extremely soft and durable.<br><br>Washing Instructions  To ensure that your towels stay soft and hold their color, we recommend following these Washing Instructions.<br><br>Before use, we recommend removing excess lint and shedding on the towel<br><br>Towels can be washed in warm or cold water<br><br>Wash before use for the first time as this will get rid of the excess lint and shedding leftover<br><br>Wash Towels alone, do not include with other clothes/loads/colors<br><br>Do not use bleach or fabric softener at any stage of the washing process, this will strip the color away from the towels and will break down the cotton fiber<br><br>We recommend washing towels after 3-4 uses - the more often the better, this helps create a softer, more luxurious feel<br><br><br>Drying Instructions  To ensure that your towels last the test of time we recommend following these Drying Instructions.<br><br>Dry towels right after they come out of the wash to prevent dampness and lingering smell<br><br>Tumble dry on low/medium heat<br><br>Do not Iron the towels to prevent burning and cotton degradation<br><br>Take towels out when they are 95% dry to prevent over-heating<br><br>Wash and Dry 2/3 times before use to ensure maximum absorbency<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>DRY OFF IN LUXURY - These hand towels measure 16" x 30" and are made of the coziest, combed Turkish cotton. These absorbent, eco-friendly towels are created to withstand use after use.</li>
+<li>BRIGHT COLORS THAT LAST - To ensure years of vibrant color, these towels are VAT dyed. This means the dye is infused into the yarns under high pressure and temperature for 6-12 hours.</li>
+<li>ECO-FRIENDLY AND HIGHEST QUALITY – OEKO-TEX Certified - all cotton is grown and all manufacturing processes use no harmful chemicals. Manufactured in an ISO-9001 mill for incredible quality control. See pictures for copies of certifications and below for more on OEKO-TEX</li>
+<li>SOFTER AFTER EACH WASH - These towels are as absorbent as traditional towels, but unlike many others, these will actually get softer and softer with each wash.</li>
+<li>MONEY BACK GUARANTEE – American Pillowcase stands behind their products and offers a hassle free, no questions asked return process.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Aqua / Hand Towel - Qty 6</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>Cambridge Aqua - Hand Towel - v2</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Aqua / Hand Towel - Qty 96</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Aqua - Hand Towel - v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Blue / Hand Towel - Qty 96</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Blue - Hand Towel - v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Chocolate / Hand Towel - Qty 96</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Chocolate -HandTowel -v2 -Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Coral / Hand Towel - Qty 6</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Cambridge Rose - Hand Towel - v2</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Gray / Hand Towel - Qty 6</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>Cambridge Gray - Hand Towel - v2</s:sku>
+      <s:grams>1157</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Green / Hand Towel - Qty 96</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Green - Hand Towel - v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Ivory / Hand Towel - Qty 6</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>Cambridge Ivory - Hand Towel -v2</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Ivory / Hand Towel - Qty 96</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Ivory - Hand Towel -v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Navy / Hand Towel - Qty 6</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>Cambridge Navy - Hand Towel - v2</s:sku>
+      <s:grams>1161</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Navy / Hand Towel - Qty 96</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Navy - Hand Towel - v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Purple / Hand Towel - Qty 96</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Purple - Hand Towel -v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Rose / Hand Towel - Qty 96</title>
+      <s:price currency="USD">394.40</s:price>
+      <s:sku>Cambridge Rose - Hand Towel - v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Stone / Hand Towel - Qty 6</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>Cambridge Stone - Hand Towel</s:sku>
+      <s:grams>1129</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>Taupe / Hand Towel - Qty 6</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>Cambridge Taupe - Hand Towel - v2</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>White / Hand Towel - Qty 6</title>
+      <s:price currency="USD">27.55</s:price>
+      <s:sku>Cambridge White - Hand Towel</s:sku>
+      <s:grams>1161</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141323928</id>
+      <title>White / Hand Towel - Qty 96</title>
+      <s:price currency="USD">366.75</s:price>
+      <s:sku>Cambridge White - Hand Towel - Box of 96</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549141094552</id>
+    <published>2021-03-01T03:16:44-05:00</published>
+    <updated>2021-03-01T03:16:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-bath-sheets-oversized-turkish-cotton-luxury-hotel-spa-quality-700gsm-organic-eco-friendly"/>
+    <title>SALBAKOS 30x60 Turkish Bath Sheets, Silk and Cotton, 700 gsm, Eco-Friendly - Pick Size and Color</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_e1932e5a-6e9f-42a2-ae4d-1a288eda8c43.jpg?v=1614586605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.09 - 53.00
+            <a href="https://americanpillowcase.com/products/salbakos-bath-sheets-oversized-turkish-cotton-luxury-hotel-spa-quality-700gsm-organic-eco-friendly">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Salbakos has been selling Turkish bath towels for more than 35 years and presently has many of the top selling cotton bath towels on the Web. This can't be done without continually providing superb products with great customer service at very fair prices.<br><br><br><br>We believe this is the first towel ever made with this intimate blend of 5% Italian silk and 95% fine Turkish combed cotton. They have been deisgned so the silk will make them incredibly soft and the cotton makes them absorbent. Your constructive feedback is encouraged.<br><br><br><br>All Salbakos towels are VAT dyed which means the dye is infused into the yarns under high pressure and high temperature for 6-12 hours depending upon the color. This limits any fading of even the brightest colors. Even our pure white bath towels are dyed white, not bleach white. For maximum color retention and softness, do not use any bleach or softener when washing. Wash in cold/warm water and tumble dry low.<br><br><br><br>You will feel the softness immediately, and these towels will continually get softer with each washing. And by using only Turkish cotton and double-stitching all the hems the durability is un-equaled. These bath towels should last you many years!<br><br><br><br>In addition, these luxury spa quality bath towels are made in an Oeko-Tex® and ISO 9001 mill. This means that all materials must be chemical and pesticide free and that the mill operates at the highest quality standards and is audited regularly. These certificates are posted in the pictures.<br><br><br><br><ul>
+<br><li>Silk and Cotton – 5% Silk and 95% Combed Turkish Cotton Spun Together Into Yarns Making This Towel Super Soft and Highly Absorbent.</li>
+<br><li>IMPORTED FROM DENIZLI TURKEY</li>
+<br><li>EXCLUSIVE, UNIQUE, AND PROPRIETARY – There is nothing else on the market like these</li>
+<br><li>LUXURY – Elegant design, well constructed, soft and absorbent.</li>
+<br><li>30” x 60” AND MEDIUM WEIGHT – Based on 35 years of making towels these are the perfect size and weight and thickness. If you are looking only for "fluffy" towels, you may be disapppinted.</li>
+<br><li>ECO-FRIENDLY, PESTICIDE, AND HARMFUL CHEMICAL FREE - All materials used in manufacturing are Oeko-Tex and ISO 9001 Certified.</li>
+<br><li>100% SATISFACTION GUARANTEED – For any reason if they don’t live up to your expectations, you can return them.</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Sheets</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141094552</id>
+      <title>Ivory / 30x60 - Turkish Cotton with Silk</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>30x60 Silk BT - Ivory</s:sku>
+      <s:grams>1520</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141094552</id>
+      <title>Taupe / 30x60 - Turkish Cotton with Silk</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>30x60 Silk BT - Taupe</s:sku>
+      <s:grams>1878</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141094552</id>
+      <title>White / 30x60 - Turkish Cotton with Silk</title>
+      <s:price currency="USD">37.09</s:price>
+      <s:sku>30x60 Silk BT - White</s:sku>
+      <s:grams>1565</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549140963480</id>
+    <published>2021-03-01T03:16:40-05:00</published>
+    <updated>2021-03-01T03:16:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-40x80-turkish-cotton-bath-sheet-luxury-eco-friendly-large-oversized-40x80-ivory"/>
+    <title>SALBAKOS Turkish Cotton 40x80 Bath Sheets or Washcloths - Pick Size and Color</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_35f2cc27-b0fa-43dc-b488-95150b376390.jpg?v=1628877012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.69 - 55.12
+            <a href="https://americanpillowcase.com/products/salbakos-40x80-turkish-cotton-bath-sheet-luxury-eco-friendly-large-oversized-40x80-ivory">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Soft, luxurious, easy care, and long lasting products direct from the mill Salbakos has been the leader in Turkey's highest quality luxury textiles since its founding in 1993 - ranked #1 out of over 2,000 towel companies in Turkey. Salbakos controls every part of the manufacturing from cotton to weaving to dying to packaging. This assures you get consistent, superb quality. Nearly all other towel sellers are resellers, middlemen, or agents buying from the cheapest factory at the time. We desire a long-term relationship and repeat buyers so we do not cut any corners.<br><br><br><br>Turkish Cotton - Best in the World<br><br><br><br>Turkish cotton is prized for its natural long lasting soft texture and luster.  It naturally grows in longer, more narrow fibers which results in more threads per square inch and a natural softer texture without any chemical processing! No other cotton fiber is as naturally soft, absorbent or lustrous without any chemical processing.<br><br><br><br>5 Star Luxury Hotel and Spa Quality<br><br><br><br>Salbakos towels are sold to 4 and 5 star hotels throughout the world showing that they are made for the most discriminating customer but are durable to withstand commerical laundries and many washings.  Extremely long staple length makes yarns more durable, more absorbent, and with a nicer sheen. Towel is not bulky or heavy so dries quickly preventing the towels from smelling musty and saving time and money in drying.<br><br><br><br>Oeko-Tex Eco-friendly<br><br><br><br>The factory is OekoTex and ISO 9001 Certified. Oekotex means all materials including the cotton are made with no harmful chemicals or pesticides. Oekotex rules are so specific that this certification is considered Organic in many countries.   ISO9001 means strict quality controls have been put in place at the factory which assures defects are documented and limited.<br><br><br><br>Brighter and Whiter<br><br><br><br>Salbakos towels are dyed under enormous pressure for up to 12 hours. Although this is an expensive process, the color penetrates into the deepest part of the cotton fiber keeping the colors bright and lustrous. Most other towels are simply dipped into the dye and lose their brightness after just a few washings.  And only in Turkey are white towels dyed white, not bleached white. Bleach breaks down the cotton fibers and the white starts to look dingy quickly. Not with Salbakos towels which will look bright for many years.<br><br><br><br>Care Instructions<br><br><br><br>Machin wash warm with mild detergent and medium heat.  Wash only with other towels.  To maintain maximum absorbency, do not use fabric softener or dryer sheets.  Dry towels right right away. Tumble dry on medium heat. Do not over-heat Salbakos towels get softer, more luxurious, and more absorbent after each washing.<br><br><br><br>FREQUENTLY ASKED QUESTIONS Are these really 40 x 80 inches? Yes! Unlike other selling similar towels, we do not false advertise.  Wrap up in this extra large towel.  Why are other similar towels less expensive? Other brands use poor quality cotton, usually from Pakistan or China.  With these they also use inexpensive dyes that will fade over time.  Often times they cut a couple inches off of the towels as well so they are not the tru 40 x 80 inch size.  Last but not least, our towels are made in an Oek-tex and ISO9001 certified mill.  Can you use bleach on these towels? No, please do not use bleach on these towels. The bleach will dis-color the colored towels and will make fine cotton less soft and break down the cotton fiber for a shorter life.   Are Salbakos towels chemical free? Yes! all of our towels are Oeko-Tex Certified, meaning that they are chemical-free and pesticide-free.  Can I use fabric softener on these towels? No, do NOT use fabric softener on these towels. Fabric softeners including dryer sheets like Bounce leave a chemical film on the towel, making them less absorbent and shortening the life of the towel.  Do these towels shrink after first wash and dry? Not if laundered properly, we recommend following the Washing and Drying Insturctions listed at...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Sheets</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Aqua / 13&quot; x 13&quot; - Washcloths - Qty. 12</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>13x13-Washcloths-Aqua</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Aqua / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">38.16</s:price>
+      <s:sku>40x80-Aqua</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Blue / 13&quot; x 13&quot; - Washcloths - Qty. 12</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>13x13-Washcloths-Blue</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Chocolate / 13&quot; x 13&quot; - Washcloths - Qty. 12</title>
+      <s:price currency="USD">27.29</s:price>
+      <s:sku>13x13-Washcloths-Chocolate</s:sku>
+      <s:grams>885</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Gray / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>40x80-Gray</s:sku>
+      <s:grams>880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Green / 13&quot; x 13&quot; - Washcloths - Qty. 12</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>13x13-Washcloths-Green</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Green / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">38.16</s:price>
+      <s:sku>40x80-Green1</s:sku>
+      <s:grams>1270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Ivory / 13&quot; x 13&quot; - Washcloths - Qty. 12</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>13x13-Washcloths-Ivory</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Navy / 13&quot; x 13&quot; - Washcloths - Qty. 12</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>13x13-Washcloths-Navy</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Navy / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>40x80-Navy</s:sku>
+      <s:grams>1270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Pink / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">55.12</s:price>
+      <s:sku>40x80-Rose</s:sku>
+      <s:grams>1275</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Silver / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">38.16</s:price>
+      <s:sku>40x80-Silver</s:sku>
+      <s:grams>1293</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Taupe / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>40x80 Taupe</s:sku>
+      <s:grams>1288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>White / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">34.40</s:price>
+      <s:sku>40x80-White</s:sku>
+      <s:grams>1270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140963480</id>
+      <title>Yellow / 40&quot; x 80&quot; Bath Sheet</title>
+      <s:price currency="USD">38.16</s:price>
+      <s:sku>40x80-Yellow</s:sku>
+      <s:grams>1315</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549140865176</id>
+    <published>2021-03-01T03:16:37-05:00</published>
+    <updated>2021-03-01T03:16:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-incredibly-soft-turkish-peshtemal-fouta-towel-eco-friendly-and-oeko-tex-certified-100-cotton-herringbone-for-spa-bath-pool-sauna-picnic-throw-blanket-40-x70-pink"/>
+    <title>SALBAKOS Turkish Peshtemal Fouta Towel, Eco-Friendly and Oeko-Tex Certified 100% Cotton, 40”x70”- Pick Color</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_b52940ef-8832-4cb1-bf24-08077f89cc41.jpg?v=1627163411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.83 - 29.99
+            <a href="https://americanpillowcase.com/products/salbakos-incredibly-soft-turkish-peshtemal-fouta-towel-eco-friendly-and-oeko-tex-certified-100-cotton-herringbone-for-spa-bath-pool-sauna-picnic-throw-blanket-40-x70-pink">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">If you have ever been to an ultra-luxury Turkish bath you will know how nice these towels are and if you have ever tried to buy a really nice peshtemal, your search likely came up short. I looked everywhere but could not find one that was up to my snobby standards, so I worked with my factory in Turkey to develop a peshtemal towel that is over the top: lightweight and versatile, soft and absorbent, beautiful and well made. Only the finest materials are used. No corners were cut and no expense spared.<br><br>These are being sold exclusively on Amazon by American Pillowcase. There is not retailer mark-up so they can be sold at the lowest price possible. Caretag says "Classic Turkish Towels" which is the a brand owned by SALBAKOS. If the caretag does not say Classic Turksih Towels or SALBAKOS, it is not genuine and you should return it and complain to Amazon that you received a counterfeit.<br><br>As part of my commitment to produce only eco-friendly towels, these are manufactured in an OEKO-TEX certified mill. OEKO-TEX is the European organic certification. There is no certifying body in the U.S. for organic textiles, so this is as good as it gets. Google OEKO-TEX if you want to learn more. Please email me with questions or suggestions.<br><br>Add to Cart above now to get one of these in your hands as soon as possible. Considering ordering more than one as they make excellent gifts -- They're sure to impress!<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>INCREDIBLY SOFT AND ABSORBENT - 100% Genuine, Authentic Turkish combed cotton. Woven with compact twisted yarn on a jacquard terry towel loom in herringbone weave. Others selling these on Amazon use fabric, not combed cotton.</li>
+<li>DESIGNED FOR ELEGANCE - Quality, and beauty. Fringes are hand twisted and knotted. Generously oversized: 40” x 70”.</li>
+<li>ECO-FRIENDLY AND HIGHEST QUALITY – OEKO-TEX Certified - all cotton is grown and all manufacturing processes use no harmful chemicals. Manufactured in an ISO-9001 mill for incredible quality control. See pictures for copies of certifications and below for more on OEKO-TEX</li>
+<li>VERSATILE - Use as a luxury shawl, wrap, comfortable couch or bed throw, sarong, pareo, picnic blankets, or a beach or swimming pool towel</li>
+<li>GUARANTEED SATISFACTION – If this product does not completely meet your expectations return for an immediate and full refund.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140865176</id>
+      <title>Blue / Peshtemal</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>Classic Peshtemal - Blue</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140865176</id>
+      <title>Burgundy / Peshtemal</title>
+      <s:price currency="USD">26.83</s:price>
+      <s:sku>Classic Peshtemal - Burgundy</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140865176</id>
+      <title>Gray / Peshtemal</title>
+      <s:price currency="USD">26.98</s:price>
+      <s:sku>Classic Peshtemal - Gray</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140865176</id>
+      <title>Green / Peshtemal</title>
+      <s:price currency="USD">26.87</s:price>
+      <s:sku>Classic Peshtemal - Green</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140865176</id>
+      <title>Linen / Peshtemal</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>Classic Peshtemal - Linen</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140865176</id>
+      <title>Pink / Peshtemal</title>
+      <s:price currency="USD">29.35</s:price>
+      <s:sku>Classic Peshtemal - Pink</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549140799640</id>
+    <published>2021-03-01T03:16:36-05:00</published>
+    <updated>2021-03-01T03:16:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-luxury-hotel-and-spa-100-turkish-cotton-banded-panel-bath-mat-set-900gsm-20x34-gray-2-pack"/>
+    <title>SALBAKOS Luxury Hotel and Spa 100% Turkish Cotton Bath Mat Set, 20&quot;x34&quot;- Pick Color</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_bd4952c0-acd8-44cd-8b83-559832552169.jpg?v=1614926664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            24.86 - 27.95
+            <a href="https://americanpillowcase.com/products/salbakos-luxury-hotel-and-spa-100-turkish-cotton-banded-panel-bath-mat-set-900gsm-20x34-gray-2-pack">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<br><br><br><p>Size: <strong>Bath Mats - Qty 2</strong></p>
+<br><br><br><p><b>Please note these are NOT bath rugs! </b>They are very nice bath mats, essentially a medium-weight, towel-like mat as seen in many luxury hotels.</p>
+<br><br><br><p>Luxuriously <b>SOFT, BRIGHT WHITE, and very DURABLE</b>, these bath mats will lay flat and remain beautiful wash after wash. Sold to happy 4 and 5 star hotels nationwide, they should last for years to come in your home.</p>
+<br><br><br><p>Made in an Oeko-Tex and ISO 9001 mill, <b>all materials must be chemical and pesticide free </b>and the mill is operated at the highest quality standards.</p>
+<br><br><br><p>These bath mats are <b>SOFTER </b>and <b>MORE DURABLE </b>because they are <b>MADE IN TURKEY </b>where <b>NO BLEACH </b>is used in the manufacturing process. They also have <b>LONG-LASTING, VIBRANT COLOR </b>(including bright whites) from dyeing under high pressure and high temperature for 6-12 hours. For maximum color retention and softness, do not use any bleach or fabric softener when washing these bath mats.</p>
+<br><br><br><p>If for any reason you are not completely satisfied, please <b>return them for a full refund</b>.</p>
+<br><br><br>
+</div><br><br><br><ul>
+<br><br><br><li>100% Genuine Turkish Cotton</li>
+<br><br><br><li>IMPORTED FROM DENIZLI TURKEY</li>
+<br><br><br><li>SET OF 2 MATS - Panel Banded Border (20"x34"), NOT a rug!</li>
+<br><br><br><li>QUALITY COTTON - 100% Genuine Turkish Cotton &amp; Made in Turkey</li>
+<br><br><br><li>DURABLE - Machine washable and double-stitched for incredible durability</li>
+<br><br><br><li>LONG-LASTING BRIGHT COLOR - Vat dyed for 6+ hours so color will remain bright</li>
+<br><br><br><li>NO BLEACH, PESTICIDES, OR HARMFUL CHEMICALS - Oeko-Tex and ISO 9001 mill</li>
+<br><br><br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Aqua / Bath Mats - Qty 2</title>
+      <s:price currency="USD">24.86</s:price>
+      <s:sku>Bath Mats - Panel x2 - Aqua</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Chocolate / Bath Mats - Qty 2</title>
+      <s:price currency="USD">25.92</s:price>
+      <s:sku>Bath Mats - Panel x2 - Chocolate</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Gray / Bath Mats - Qty 2</title>
+      <s:price currency="USD">25.92</s:price>
+      <s:sku>Bath Mats - Panel x2 - Gray</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Ivory / Bath Mats - Qty 2</title>
+      <s:price currency="USD">25.39</s:price>
+      <s:sku>Bath Mats - Panel x2 - Ivory</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Seafoam Green / Bath Mats - Qty 2</title>
+      <s:price currency="USD">25.39</s:price>
+      <s:sku>Bath Mats - Panel x2 - Seafoam</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Stone / Bath Mats - Qty 2</title>
+      <s:price currency="USD">25.39</s:price>
+      <s:sku>Bath Mats - Panel x2 - Stone</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>White / Bath Mats - Qty 2</title>
+      <s:price currency="USD">25.39</s:price>
+      <s:sku>Bath Mats - Panel x2</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Wine / Bath Mats - Qty 2</title>
+      <s:price currency="USD">25.92</s:price>
+      <s:sku>Bath Mats - Panel x2 - Wine</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140799640</id>
+      <title>Yellow / Bath Mats - Qty 2</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>Bath Mats - Panel x2 - Yellow</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549136834712</id>
+    <published>2021-03-01T03:14:16-05:00</published>
+    <updated>2021-03-01T03:14:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-oversized-cotton-beach-towel-fast-drying-lightweight-beach-blanket-colorful-printed-velour-made-with-100-cotton-40-x-70-tropical-island"/>
+    <title>SALBAKOS Oversized Cotton Beach Towel - Fast Drying Lightweight Beach Blanket, 40” x 70” (Pick Style)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium.jpg?v=1614586458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Oversized Cotton Beach Towel- Fast Drying Lightweight Beach Blanket - Colorful Printed Velour Made With 100% Cotton, 40” x 70”  Towels Beyond’s’ Oversized Printed Velour Beach Blanket is a summer essential. We have crafted our printed velour towels with the 100% of the highest quality cotton originating from Turkey. Why Cotton? Unlike microfiber towels, our towels will actually absorb excess water after a swim or dip in the water. They also dry very quickly after use. At 330 GSM of cotton, they are also very lightweight and compact, which make our towels easy to pack and carry while traveling. Get the most value for your dollar! Our Printed Velour Beach Towels are not only great for sunny beach days, but are also very useful for everyday applications; such as lounging by the pool, the yoga studio, out boating, etc. Not only are our towels versatile, but with 40 x 70 inches of pure cotton terry, this is one of the largest cotton towels on the market! Our towels have been featured in high end hotels, spas and department stores around the world. Why pay more? Pay a fraction of the price directly from the manufacturer, and bring the luxury to your home!Towels Beyond: All our towels are manufactured and imported from our very own mills in Turkey. We also sell our own line of high end towels, robes, and bath sheets all made with 100% Turkish Cotton. We always use 100% chemical-free high quality unprocessed Turkish combed cotton in all our products.Turkish cotton is prized for its natural long lasting soft texture and luster, which naturally grows in longer, more narrow fibers. This results in more threads per square inch and a natural softer texture without any chemical processing! No other cotton fiber is as naturally soft, absorbent or lustrous without any chemical processing. All purchases are shipped from the USA. Buy direct from us and save!<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>BRIGHT OPTICAL COLORS: We use an eco friendly dying process that produces only the best and brightest colors on all of our towels. With our selection of great color combinations, they will be sure to stand out and easily become your favorite towel</li>
+<li>ABSORBENT AND FAST DRYING: Our pure cotton towels are rated at 330 GSM, meaning that not only are they absorbent, but will take less time to dry. Our cotton is naturally more absorbent than other fibers, such as microfiber, and the density of the cotton allows our towels to dry even faster than other towels</li>
+<li>GENUINE TURKISH COTTON: Our Turkish cotton is naturally softer and lustrous than other type of cotton fibers. This means, that our towels are naturally soft to the touch without the use of any synthetic fibers such as microfiber</li>
+<li>ECO FRIENDLY AND SAFE: Use our towels with confidence, produced without any pesticides or chemical processing. All our products have passed Oeko-Tex and ISO 9001 Certification</li>
+<li>EXCELLENT VALUE: At 40 x 70 inches, our pure terry cotton beach towels are large but made with versatility in mind. Our beach towels are ideal for sunny sandy beach days, but they also make great travel companions while you’re out at the pool, camping, at yoga, after swimming, out boating, or just at home</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549136834712</id>
+      <title>Nautical Navigator</title>
+      <s:price currency="USD">21.19</s:price>
+      <s:sku>beach miami - navigator</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549136834712</id>
+      <title>Summer Holidays</title>
+      <s:price currency="USD">21.19</s:price>
+      <s:sku>beach miami - summer</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+</feed>

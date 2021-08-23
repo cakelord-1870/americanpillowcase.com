@@ -1,0 +1,1980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://americanpillowcase.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://americanpillowcase.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://americanpillowcase.com/collections/all.atom"/>
+  <title>American Pillowcase</title>
+  <updated>2021-03-05T17:56:18-05:00</updated>
+  <author>
+    <name>American Pillowcase</name>
+  </author>
+  <entry>
+    <id>https://americanpillowcase.com/products/6559031656600</id>
+    <published>2021-03-05T17:56:18-05:00</published>
+    <updated>2021-03-05T17:56:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/mattress-protector-waterproof-and-hypoallergenic-bed-cover-dust-mite-allergy-and-pad-protection-breathable-cotton-bedding-vinyl-free-fitted-sheet-style-for-california-king"/>
+    <title>Mattress Protector, Waterproof and Hypoallergenic, Breathable Cotton Bedding, Vinyl-Free, Fitted Sheet Style - Pick Size</title>
+    <s:type>Misc.</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_ce76af02-b568-42bf-b836-81c9b4c93534.jpg?v=1615101700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Misc.<br>
+        <strong>Price: </strong>
+            24.95 - 244.46
+            <a href="https://americanpillowcase.com/products/mattress-protector-waterproof-and-hypoallergenic-bed-cover-dust-mite-allergy-and-pad-protection-breathable-cotton-bedding-vinyl-free-fitted-sheet-style-for-california-king">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleep in peace with the American Pillowcase Mattress Protector. Use the mattress protector on a bed or futon mattress to safeguard from dust mites, bacteria, germs, and allergens to keep you healthy as you sleep. Waterproof, engineered membrane backing allows the mattress protector to repel liquids while breathability allows sweat and vapor to pass. The unique terry surface increases comfort and significantly lessens noise. If you suffer from eczema, rhinitis, asthma, allergies, or snoring, the American Pillowcase Mattress Protector can help you get a more restful night's sleep. Designed to fit all mattress depths with all-around deep pocket elastic to automatically pull excess barrier material far under the mattress. When it is time to wash your mattress protector, simply toss it into the washing machine, wash with cool water, and dry. 100% Money Back Guarantee. American Pillowcase stands behind its products. You can return any defective product hassle-free.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>California King</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>Mattress Protector (White, CalKing)</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>California King - Case</title>
+      <s:price currency="USD">244.46</s:price>
+      <s:sku>MattressProtector- case (White, CalKing)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>California King - Qty 8</title>
+      <s:price currency="USD">244.46</s:price>
+      <s:sku>MattressProtector- Case (White, CalKing)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>Full</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>Mattress Protector (White, Full)</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>King</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>Mattress Protector (White, King)</s:sku>
+      <s:grams>1111</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>Queen</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>Mattress Protector (White, Queen)</s:sku>
+      <s:grams>885</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>Twin</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Mattress Protector (White, Twin)</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>Twin - Case</title>
+      <s:price currency="USD">220.58</s:price>
+      <s:sku>MattressProtector  - case (White, Twin)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6559031656600</id>
+      <title>Twin XL</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Mattress Protector (White, TwinXL)</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6557723361432</id>
+    <published>2021-03-05T03:13:43-05:00</published>
+    <updated>2021-03-05T03:13:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/wholesale-box-of-140-standard-size-microfiber-pillowcases"/>
+    <title>Wholesale Box of 140 Standard Size Microfiber Pillowcases</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_98e3313f-a710-43f4-a38c-e2f0bf80270d.jpg?v=1614932023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add some comfort to your bedroom with American Pillowcase microfiber pillowcases. These pillowcases are made of 100% Microfiber for comfort and durability. The fabric is brushed giving it that peach-fuzz feel that makes microfiber so smooth and silky.<br><br>With stain, fade, and wrinkle resistant material, the pillowcases will maintain their high quality for years to come. You can give your bedroom a cohesive, stylish look with the matching pillowcases with 2-inch hems. When it is time to wash your pre-shrunk pillowcases, simply toss them into the washing machine, wash with cool water, and dry.<br><br><br>100% Brushed Microfiber - Super Soft, Stain- and Wrinkle-Resistant<br><br><br>Designed with 100% Brushed Microfiber, a stain, wrinkle, and fade resistant choice for your convenience<br><br><br>Breathable fabric is lightweight and soft so you can stay cool in the summer and warm in the winter<br><br><br>2-inch hems for a polished bedroom look<br><br><br>Easy Care Instructions: Wash separately in warm water. Do not bleach or use fabric softener. Quick Drying</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pillowcases Wholesale</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557723361432</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>Microfiber-Pillowcase-Wholesale-Box</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6557498572952</id>
+    <published>2021-03-05T01:44:37-05:00</published>
+    <updated>2021-03-05T01:44:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple-1"/>
+    <title>SALBAKOS 6 Piece Bath Towel Set - Turkish Luxury Hotel &amp; Spa Collection - Oeko-TEX Organic - Eco-Friendly Turkish Cotton (Purple)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_9c1e6204-4b2e-481f-8a17-e7e36f4c4c23.jpg?v=1614932136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.99 - 259.99
+            <a href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple-1">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase has been selling Turkish towels for more than 15 years and contracts with only the very best mills in Turkey. Presently American Pillowcase has 5 of the top selling towels on Amazon. This can't be done without making a superb product at a great price.   Towels made in Turkey are softer and more durable because it is the only country which does not use any bleach in the manufacturing process, including white towels.   All Turkish towels are VAT dyed which means the dye is infused into the yarns under high pressure and high temperature for 6-12 hours depending upon the color. This limits any fading of even the brightest colors. Even white towels are dyed white, not bleach white. For maximum color retention and softness, do not use any bleach when washing these towels.   You will feel the softness immediately, and the towels will get softer after each washing. And by using only Turkish cotton and double-stitching all the hems the durability is un-equaled. These towels should last you many years!   In addition, the towels are made in an Oeko-Tex and ISO 9001 mill. This means that all materials must be chemical and pesticide free and that the mill operated at the highest quality standards and is audited regularly. Email me and I will be happy to send you the certificates.  If for any reason, you would not give these 5 stars, please email and let me know.<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>2 Luxury Bath Sheets 35x70</li>
+<li>Matching bath towels (B00GEGLB5C), hand towels (B00KQQTW0W), washcloth (B00GEFSCKA), bath mats (B00J1O3BZ2), and 6 piece sets (B00K6ORZ6C) available . Type in number in () into Amazon search box.</li>
+<li>Extra thick weave. 700+ gsm. All hems are double-stitched for extra durability</li>
+<li>Oeko-Tex and ISO 9001. All Materials are Pesticide and Harmful Chemical Free!</li>
+<li>Aqua is vat dyed for 6+ hours so will remain bright</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Aqua - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Aqua - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Aqua -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Aqua / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Aqua - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Blue / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Blue -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Chocolate / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Chocolate - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Chocolate / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>CambridgeChocolate -BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Chocolate / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Chocolate - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Coral / 4 Piece Set</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Rose - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Coral / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Coral -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Gray - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Gray - Bath Sheet 35x70-FBM</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Gray -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Gray / Bath Towel - Qty 4</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>Cambridge Gray - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Ivory / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Ivory - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Ivory / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Ivory - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Navy / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Navy - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Navy / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Navy - Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Navy / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Navy - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Purple / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Purple - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Purple / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Purple - BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Rose / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Rose - Bath Towels - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Seafoam Green / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Seafoam Green - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Stone / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Stone - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Stone / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk -  Stone v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Stone / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Stone - Bath Towel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk - Taupe v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Taupe - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Taupe - BathTowel- Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Taupe / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Taupe - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>White / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge White - 6 piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>White / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge White - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Yellow / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Yellow - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557498572952</id>
+      <title>Yellow / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Yellow -Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6557497589912</id>
+    <published>2021-03-05T01:44:07-05:00</published>
+    <updated>2021-03-05T01:44:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple"/>
+    <title>SALBAKOS 6 Piece Bath Towel Set - Turkish Luxury Hotel &amp; Spa Collection - Oeko-TEX Organic - Eco-Friendly Turkish Cotton (Purple)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_e5538d66-2056-45be-8349-766213f0449d.jpg?v=1614926653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.99 - 259.99
+            <a href="https://americanpillowcase.com/products/salbakos-6-piece-bath-towel-set-turkish-luxury-hotel-spa-collection-oeko-tex-organic-eco-friendly-turkish-cotton-purple">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase has been selling Turkish towels for more than 15 years and contracts with only the very best mills in Turkey. Presently American Pillowcase has 5 of the top selling towels on Amazon. This can't be done without making a superb product at a great price.   Towels made in Turkey are softer and more durable because it is the only country which does not use any bleach in the manufacturing process, including white towels.   All Turkish towels are VAT dyed which means the dye is infused into the yarns under high pressure and high temperature for 6-12 hours depending upon the color. This limits any fading of even the brightest colors. Even white towels are dyed white, not bleach white. For maximum color retention and softness, do not use any bleach when washing these towels.   You will feel the softness immediately, and the towels will get softer after each washing. And by using only Turkish cotton and double-stitching all the hems the durability is un-equaled. These towels should last you many years!   In addition, the towels are made in an Oeko-Tex and ISO 9001 mill. This means that all materials must be chemical and pesticide free and that the mill operated at the highest quality standards and is audited regularly. Email me and I will be happy to send you the certificates.  If for any reason, you would not give these 5 stars, please email and let me know.<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>2 Luxury Bath Sheets 35x70</li>
+<li>Matching bath towels (B00GEGLB5C), hand towels (B00KQQTW0W), washcloth (B00GEFSCKA), bath mats (B00J1O3BZ2), and 6 piece sets (B00K6ORZ6C) available . Type in number in () into Amazon search box.</li>
+<li>Extra thick weave. 700+ gsm. All hems are double-stitched for extra durability</li>
+<li>Oeko-Tex and ISO 9001. All Materials are Pesticide and Harmful Chemical Free!</li>
+<li>Aqua is vat dyed for 6+ hours so will remain bright</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Aqua - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Aqua - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Aqua -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Aqua / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Aqua - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Blue / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Blue -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Chocolate / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Chocolate - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Chocolate / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>CambridgeChocolate -BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Chocolate / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Chocolate - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Coral / 4 Piece Set</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Rose - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Coral / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Coral -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Gray - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Gray - Bath Sheet 35x70-FBM</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Gray -BathTowel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Gray / Bath Towel - Qty 4</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>Cambridge Gray - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Ivory / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Ivory - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Ivory / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Ivory - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Navy / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge Navy - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Navy / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Navy - Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Navy / Bath Towel - Qty 4</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Cambridge Navy - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Purple / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Purple - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Purple / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Purple - BathTowel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Rose / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Rose - Bath Towels - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Seafoam Green / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Seafoam Green - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Stone / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Stone - 6 Piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Stone / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk -  Stone v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Stone / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Stone - Bath Towel - Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / 2 Piece Set</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>35x70 BS - 2 pk - Taupe v-2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Taupe - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Taupe - BathTowel- Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Taupe / Bath Towel - Qty 4</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>Cambridge Taupe - Bath Towel - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>White / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge White - 6 piece</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>White / Bath Sheets 35&quot;x70&quot;- Qty 2</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>Cambridge White - Bath Sheet 35x70</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Yellow / 6 Piece Set</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>Cambridge Yellow - 6 Piece - v2</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557497589912</id>
+      <title>Yellow / Bath Towel - Qty 24</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>Cambridge Yellow -Bath Towel -Box of 24</s:sku>
+      <s:grams>1969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6557426122904</id>
+    <published>2021-03-05T00:49:18-05:00</published>
+    <updated>2021-03-05T00:49:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/120-standard-size-100-cotton-white-t220-percale-wholesale-bulk-pillowcases-for-tie-dying-silk-screening-hotels-crafts-camps-parties-physical-therapy"/>
+    <title>120 Standard Size 100% Cotton White T220 Percale Wholesale Bulk Pillowcases for Tie-Dying, Silk Screening, Hotels, Crafts, Camps, Parties, Physical Therapy</title>
+    <s:type>Pillowcase</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_bfa2485c-dd2d-49c5-b144-1c4907501ed1.jpg?v=1614932363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Pillowcase<br>
+        <strong>Price: </strong>
+            365.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase is bringing you its 100% luxury Egyptian Cotton made from long staple yarns. This Percale textile is a classic one-over-one-under weave which makes the fabric cool and crisp to touch. This breathable yet medium weight material keeps you cool in the summer and dry and warm in the winter. High thread count does not mean better quality or comfort, but this 220 count is perfect for maximum comfort and durability. Even for those with sensitive skin. The hypoallergenic qualities will reduce allergens but still showcases a smooth finish for a satin-like surface and luminous sheen. The hems will help prevent falling apart as extra stitches have been added to ensure a long-lasting product.<br><br>Includes: 120 Standard Size Pillow Cases - fits 20"x 26"<br><br>Add some luxurious comfort to your bedroom with these American Pillowcase Pillowcases. These pillowcases are made of 100% Egyptian cotton with a breathable, crisp Percale weave comparable to those found in 5-star hotels around the globe.<br><br>220 Thread Count Percale Egyption Cotton<br><br>Our percale weave cotton pillowcases are produced using a one over one under pattern, creating a tight weave that pairs long lasting beauty with exceptional strength and durability.<br><br>Thread count references the number of threads per square inch of fabric. Cotton linens with a thread count of 200-400 are known for a crisp, clean feel that is breathable and wicks away moisture. Percale linens resist pilling. These linens will develop a softer feel with every washing.<br><br>Care Instructions<br><br>You should always wash your cotton percale pillowcases in a separate load than your normal laundry, as zippers, hooks and buttons could possibly damage cotton linens. A gentle wash cycle with a cold temperature setting, and a mild detergent is recommended. Quality, pH balanced detergents are best when washing fine cotton linens. Do not use chlorinated bleach as it can damage quality cotton bedding fibers. If needed, non-chlorinated bleach can be used with white and ivory cotton linens.<br><br>Removing cotton pillowcases promptly after washing will help reduce wrinkling. Shaking linens out before placing them in the dryer will reduce wrinkling also. When drying, use a warm setting, remove pillowcases while they are still slightly damp and hang to finish drying. Ironing is optional but not usually necessary for cotton pillowcases. However, some people prefer to iron them for a crisper appearance.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6557426122904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">365.65</s:price>
+      <s:sku>T220-Pillowcase-Wholesale-Box</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549150957720</id>
+    <published>2021-03-01T03:24:16-05:00</published>
+    <updated>2021-03-01T03:24:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/wholesale-box-of-120-pillowcases-standard-size-4-hems-300-thread-count-100-long-staple-egyptian-cotton"/>
+    <title>Wholesale box of 120 Pillowcases. Standard Size 4&quot; Hems, 300 Thread Count 100% Long Staple Egyptian Cotton</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_89876072-5da5-4e75-a490-cb11aeca06c3.jpg?v=1614587057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            390.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100% long staple cotton is breathable to keep you cool in the summer and dry and warm in the winter. 300 thread count is perfect for maximum comfort and durability. This is the exact fabric I sold to 5-star luxury hotels of years. Higher thread count or heavier fabric does not mean better quality or comfort.  Textile experts: the construction is 173x120 using 60 compact yarns in both the warp and the weft - it doesn't get any better. Hypoallergenic will reduce allergens.  Sateen finish for a smooth surface and luminous sheen. Double stitched seams for quality and durability. Perfectly covers your pillow with enough overhang to not see the pillow or you can tuck back into the pillow for a cleaner look.  Easy care - wash in warm water, dry on medium heat, and take out of the dryer as soon as they are done, or just before they are fully dry. If you are at all unsatisfied, simply let us know and you will receive a full refund - no questions asked! Includes: 10 - Dozen pillowcases with 4” hem</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pillowcases Wholesale</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549150957720</id>
+      <title>Default Title / Default Title</title>
+      <s:price currency="USD">390.92</s:price>
+      <s:sku>T300 pillowcase standard - 20 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549150728344</id>
+    <published>2021-03-01T03:24:12-05:00</published>
+    <updated>2021-03-01T03:24:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-turkish-cotton-hotel-spa-hand-towel-set-16-by-30-inch-box-of-96-gray"/>
+    <title>SALBAKOS Turkish Cotton Hotel &amp; Spa Hand Towels, 16 by 30 Inch, Box of 96 Towels, Gray</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_ce689f7a-d48c-4ef4-bfb1-0325eead985f.jpg?v=1614587053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            418.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Turkey is known for producing some of the highest quality towels, often found in luxury spas and salons alike. These towels are as absorbent as traditional towels, but unlike many others, these will actually get softer and softer with each wash. The double-lock stitched hems prevent these towels from falling apart.<br><br>To ensure years of vibrant color and softness, these bath sheets are never bleached. Even the whites are dyed white through a VAT dyeing process. Color coordinate to your existing bathroom theme, or simply choose the color that fits you best.<br><br>Care Instructions: For maximum color retention and softness, do not use any bleach when washing these towels.<br><br>100% Money Back Guarantee! SALBAKOS stands behind its products. You can return any defective product hassle-free.<br><br>Includes: box of 16 - 16" x 30" Gray Turkish Hand Towel<br><ul>
+<li>☁ THE #1 THICK, SOFT, AND FLUFFY TOWELS - If you are looking for the softest luxury hand towels, then you have found the winner with our Hand Towels. They are 700 GSM and a full pound heavier than other luxury hotel hand towels. Enjoy super absorbent, premium bathroom towels for your home today!</li>
+<li>💯 ENJOY THE BEST TURKISH COTTON TOWELS IN THE WORLD - Did you know our Luxury Hotel &amp; Spa Collection hand Towels are the softest bathroom towels you will ever own? Unlike most towels that get coarse and rough after a few washes, our high-performance luxury hotel towel sets are made with 100% genuine Turkish cotton that gets softer with each use</li>
+<li>☁ UPGRADE YOUR BATHROOMS WITH LUXURY HOTEL &amp; SPA HAND TOWELS - Do you want to upgrade the style and luxury of your home bathrooms? Our extra large towels are much heavier than your average bath towel. The high quality, size, and deluxe 700 GSM makes all the difference in your experience</li>
+<li>💯 GREAT GIFT IDEA - Are you looking for the perfect wedding, anniversary, birthday, Christmas or house-warming gift? If so, you have found an amazing bath towel gift set that will keep giving soft comfort and high-absorbency for years to come</li>
+<li>☁ ENJOY OUR SOFTEST TOWELS GUARANTEE - You deserve the best, and we are here to provide it. Our Hand Towel Set is made from the highest quality soft cotton. All the hems are double-stitched for extra durability. Plus, our hand towels are vat-dyed for 8+ hours so the color remains bright. Click the yellow “Add to Cart” button today, knowing you are getting the best</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549150728344</id>
+      <title>Default Title</title>
+      <s:price currency="USD">418.06</s:price>
+      <s:sku>Cambridge Gray - Hand Towel - v2 - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549149876376</id>
+    <published>2021-03-01T03:23:32-05:00</published>
+    <updated>2021-03-01T03:23:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-mattress-protector-hypoallgenic-waterproof-vinyl-free-6-sizes-to-choose-from-california-king"/>
+    <title>American Pillowcase Mattress Protector Hypoallgenic Waterproof Vinyl-Free (California King)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_41d6cd75-4078-40fd-8b47-b085162a37d3.jpg?v=1614587013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            262.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleep in peace with the American Pillowcase Mattress Protector. Use the mattress protector on a bed or futon mattress to safeguard from dust mites, bacteria, germs, and allergens to keep you healthy as you sleep. Waterproof, engineered membrane backing allows the mattress protector to repel liquids while breathability allows sweat and vapor to pass. The unique terry surface increases comfort and significantly lessens noise. If you suffer from eczema, rhinitis, asthma, allergies, or snoring, the American Pillowcase Mattress Protector can help you get a more restful night's sleep. Designed to fit all mattress depths with all-around deep pocket elastic to automatically pull excess barrier material far under the mattress. When it is time to wash your mattress protector, simply toss it into the washing machine, wash with cool water, and dry. 100% Money Back Guarantee. American Pillowcase stands behind its products. You can return any defective product hassle-free.<br><ul>
+<li>Vinyl Free</li>
+<li>HYPOALLERGENIC AND VINYL FREE – Protects from dust mites, bacteria, germs, bed bugs, and more. Helps with eczema, rhinitis, asthma and snoring.</li>
+<li>COMFORTABLE, BREATHABLE, AND LESS NOISE – Engineered membrane backing repels liquids but breathes allowing sweat and vapor to pass. Unique terry surface increases comfort and significantly lessens noise.</li>
+<li>FITTED SHEET STYLE - Designed to fit all mattress depths with all-around elastic to automatically pull excess barrier material far under the mattress.</li>
+<li>AFFORDABLE AND GUARANTEED – Given the quality you will not find a less expensive protector. Full 10-year Warranty means these will likely outlast your mattress. And if for any reason you are not 100% satisfied, return for a full refund.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mattress Protector</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549149876376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">262.82</s:price>
+      <s:sku>MattressProtector -case (White, CalKing)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549149778072</id>
+    <published>2021-03-01T03:23:28-05:00</published>
+    <updated>2021-03-01T03:23:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-mattress-protector-hypoallgenic-waterproof-vinyl-free-6-sizes-to-choose-from-queen"/>
+    <title>American Pillowcase Mattress Protector Hypoallgenic Waterproof Vinyl Free (Queen)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_0d808f8a-f7c8-4ae3-a98d-c8e0d640dd42.jpg?v=1614587009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            183.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleep in peace with the American Pillowcase Mattress Protector. Use the mattress protector on a bed or futon mattress to safeguard from dust mites, bacteria, germs, and allergens to keep you healthy as you sleep. Waterproof, engineered membrane backing allows the mattress protector to repel liquids while breathability allows sweat and vapor to pass. The unique terry surface increases comfort and significantly lessens noise. If you suffer from eczema, rhinitis, asthma, allergies, or snoring, the American Pillowcase Mattress Protector can help you get a more restful night's sleep. Designed to fit all mattress depths with all-around deep pocket elastic to automatically pull excess barrier material far under the mattress. When it is time to wash your mattress protector, simply toss it into the washing machine, wash with cool water, and dry. 100% Money Back Guarantee. American Pillowcase stands behind its products. You can return any defective product hassle-free.<br><ul>
+<li>Vinyl Free</li>
+<li>HYPOALLERGENIC AND VINYL FREE – Protects from dust mites, bacteria, germs, bed bugs, and more. Helps with eczema, rhinitis, asthma and snoring.</li>
+<li>COMFORTABLE, BREATHABLE, AND LESS NOISE – Engineered membrane backing repels liquids but breathes allowing sweat and vapor to pass. Unique terry surface increases comfort and significantly lessens noise.</li>
+<li>FITTED SHEET STYLE - Designed to fit all mattress depths with all-around elastic to automatically pull excess barrier material far under the mattress.</li>
+<li>AFFORDABLE AND GUARANTEED – Given the quality you will not find a less expensive protector. Full 10-year Warranty means these will likely outlast your mattress. And if for any reason you are not 100% satisfied, return for a full refund.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mattress Protector</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549149778072</id>
+      <title>Default Title</title>
+      <s:price currency="USD">183.26</s:price>
+      <s:sku>Mattress Protector - case (White, Queen)</s:sku>
+      <s:grams>27941</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549149614232</id>
+    <published>2021-03-01T03:23:24-05:00</published>
+    <updated>2021-03-01T03:23:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-mattress-protector-hypoallgenic-waterproof-vinyl-free-6-sizes-to-choose-from-king"/>
+    <title>American Pillowcase Mattress Protector Hypoallgenic Waterproof Vinyl-Free (King)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_d207b9fd-300a-42f3-b46e-8032fb319454.jpg?v=1614587005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            244.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleep in peace with the American Pillowcase Mattress Protector. Use the mattress protector on a bed or futon mattress to safeguard from dust mites, bacteria, germs, and allergens to keep you healthy as you sleep. Waterproof, engineered membrane backing allows the mattress protector to repel liquids while breathability allows sweat and vapor to pass. The unique terry surface increases comfort and significantly lessens noise. If you suffer from eczema, rhinitis, asthma, allergies, or snoring, the American Pillowcase Mattress Protector can help you get a more restful night's sleep. Designed to fit all mattress depths with all-around deep pocket elastic to automatically pull excess barrier material far under the mattress. When it is time to wash your mattress protector, simply toss it into the washing machine, wash with cool water, and dry. 100% Money Back Guarantee. American Pillowcase stands behind its products. You can return any defective product hassle-free.<br><ul>
+<li>Vinyl Free</li>
+<li>HYPOALLERGENIC AND VINYL FREE – Protects from dust mites, bacteria, germs, bed bugs, and more. Helps with eczema, rhinitis, asthma and snoring.</li>
+<li>COMFORTABLE, BREATHABLE, AND LESS NOISE – Engineered membrane backing repels liquids but breathes allowing sweat and vapor to pass. Unique terry surface increases comfort and significantly lessens noise.</li>
+<li>FITTED SHEET STYLE - Designed to fit all mattress depths with all-around elastic to automatically pull excess barrier material far under the mattress.</li>
+<li>AFFORDABLE AND GUARANTEED – Given the quality you will not find a less expensive protector. Full 10-year Warranty means these will likely outlast your mattress. And if for any reason you are not 100% satisfied, return for a full refund.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mattress Protector</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549149614232</id>
+      <title>Default Title</title>
+      <s:price currency="USD">244.46</s:price>
+      <s:sku>Mattress Protector - case (White, King)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549149483160</id>
+    <published>2021-03-01T03:23:20-05:00</published>
+    <updated>2021-03-01T03:23:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-mattress-protector-hypoallgenic-waterproof-vinyl-free-6-sizes-to-choose-from-twin-xl"/>
+    <title>American Pillowcase Mattress Protector Hypoallgenic Waterproof Vinyl-Free (Twin XL)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_8dfd1336-8d93-420b-9896-ee3675a6f753.jpg?v=1614587001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleep in peace with the American Pillowcase Mattress Protector. Use the mattress protector on a bed or futon mattress to safeguard from dust mites, bacteria, germs, and allergens to keep you healthy as you sleep. Waterproof, engineered membrane backing allows the mattress protector to repel liquids while breathability allows sweat and vapor to pass. The unique terry surface increases comfort and significantly lessens noise. If you suffer from eczema, rhinitis, asthma, allergies, or snoring, the American Pillowcase Mattress Protector can help you get a more restful night's sleep. Designed to fit all mattress depths with all-around deep pocket elastic to automatically pull excess barrier material far under the mattress. When it is time to wash your mattress protector, simply toss it into the washing machine, wash with cool water, and dry. 100% Money Back Guarantee. American Pillowcase stands behind its products. You can return any defective product hassle-free.<br><ul>
+<li>Vinyl Free</li>
+<li>HYPOALLERGENIC AND VINYL FREE – Protects from dust mites, bacteria, germs, bed bugs, and more. Helps with eczema, rhinitis, asthma and snoring.</li>
+<li>COMFORTABLE, BREATHABLE, AND LESS NOISE – Engineered membrane backing repels liquids but breathes allowing sweat and vapor to pass. Unique terry surface increases comfort and significantly lessens noise.</li>
+<li>FITTED SHEET STYLE - Designed to fit all mattress depths with all-around elastic to automatically pull excess barrier material far under the mattress.</li>
+<li>AFFORDABLE AND GUARANTEED – Given the quality you will not find a less expensive protector. Full 10-year Warranty means these will likely outlast your mattress. And if for any reason you are not 100% satisfied, return for a full refund.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mattress Protector</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549149483160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.58</s:price>
+      <s:sku>MattressProtector - case (White, TwinXL)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549149352088</id>
+    <published>2021-03-01T03:23:16-05:00</published>
+    <updated>2021-03-01T03:23:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-mattress-protector-hypoallgenic-waterproof-vinyl-free-6-sizes-to-choose-from-twin"/>
+    <title>American Pillowcase Mattress Protector Hypoallgenic Waterproof Vinyl-Free (Twin)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_ac66f126-2929-4df7-b0d8-f53b37671845.jpg?v=1614586997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            234.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleep in peace with the American Pillowcase Mattress Protector. Use the mattress protector on a bed or futon mattress to safeguard from dust mites, bacteria, germs, and allergens to keep you healthy as you sleep. Waterproof, engineered membrane backing allows the mattress protector to repel liquids while breathability allows sweat and vapor to pass. The unique terry surface increases comfort and significantly lessens noise. If you suffer from eczema, rhinitis, asthma, allergies, or snoring, the American Pillowcase Mattress Protector can help you get a more restful night's sleep. Designed to fit all mattress depths with all-around deep pocket elastic to automatically pull excess barrier material far under the mattress. When it is time to wash your mattress protector, simply toss it into the washing machine, wash with cool water, and dry. 100% Money Back Guarantee. American Pillowcase stands behind its products. You can return any defective product hassle-free.<br><ul>
+<li>Vinyl Free</li>
+<li>HYPOALLERGENIC AND VINYL FREE – Protects from dust mites, bacteria, germs, bed bugs, and more. Helps with eczema, rhinitis, asthma and snoring.</li>
+<li>COMFORTABLE, BREATHABLE, AND LESS NOISE – Engineered membrane backing repels liquids but breathes allowing sweat and vapor to pass. Unique terry surface increases comfort and significantly lessens noise.</li>
+<li>FITTED SHEET STYLE - Designed to fit all mattress depths with all-around elastic to automatically pull excess barrier material far under the mattress.</li>
+<li>AFFORDABLE AND GUARANTEED – Given the quality you will not find a less expensive protector. Full 10-year Warranty means these will likely outlast your mattress. And if for any reason you are not 100% satisfied, return for a full refund.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mattress Protector</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549149352088</id>
+      <title>Default Title</title>
+      <s:price currency="USD">234.53</s:price>
+      <s:sku>Mattress Protector - case (White, Twin)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549149286552</id>
+    <published>2021-03-01T03:23:12-05:00</published>
+    <updated>2021-03-01T03:23:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-mattress-protector-hypoallgenic-waterproof-vinyl-free-6-sizes-to-choose-from-full"/>
+    <title>American Pillowcase Mattress Protector Hypoallgenic Waterproof Vinyl-Free (Full)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_ccffb028-8d65-4950-99de-4e0737f65047.jpg?v=1614586994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleep in peace with the American Pillowcase Mattress Protector. Use the mattress protector on a bed or futon mattress to safeguard from dust mites, bacteria, germs, and allergens to keep you healthy as you sleep. Waterproof, engineered membrane backing allows the mattress protector to repel liquids while breathability allows sweat and vapor to pass. The unique terry surface increases comfort and significantly lessens noise. If you suffer from eczema, rhinitis, asthma, allergies, or snoring, the American Pillowcase Mattress Protector can help you get a more restful night's sleep. Designed to fit all mattress depths with all-around deep pocket elastic to automatically pull excess barrier material far under the mattress. When it is time to wash your mattress protector, simply toss it into the washing machine, wash with cool water, and dry. 100% Money Back Guarantee. American Pillowcase stands behind its products. You can return any defective product hassle-free.<br><ul>
+<li>Vinyl Free</li>
+<li>HYPOALLERGENIC AND VINYL FREE – Protects from dust mites, bacteria, germs, bed bugs, and more. Helps with eczema, rhinitis, asthma and snoring.</li>
+<li>COMFORTABLE, BREATHABLE, AND LESS NOISE – Engineered membrane backing repels liquids but breathes allowing sweat and vapor to pass. Unique terry surface increases comfort and significantly lessens noise.</li>
+<li>FITTED SHEET STYLE - Designed to fit all mattress depths with all-around elastic to automatically pull excess barrier material far under the mattress.</li>
+<li>AFFORDABLE AND GUARANTEED – Given the quality you will not find a less expensive protector. Full 10-year Warranty means these will likely outlast your mattress. And if for any reason you are not 100% satisfied, return for a full refund.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mattress Protector</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549149286552</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.58</s:price>
+      <s:sku>Mattress Protector - case (White, Full)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549149122712</id>
+    <published>2021-03-01T03:23:08-05:00</published>
+    <updated>2021-03-01T03:23:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/wholesale-box-of-120-pillowcases-100-cotton-high-thread-count-luxury-pillow-cases-z-style-hem-stitch-standard-21x30-fits-20x26-pillow-sage"/>
+    <title>Wholesale box of 120 Pillowcases. 100% Cotton, High Thread Count, Luxury Pillow Cases, Z-Style Hem Stitch, Standard 21x30 (fits 20x26 Pillow) - Sage</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_bfddac7b-151d-48fe-a5aa-2a2414ae7dfa.jpg?v=1614586990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            484.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our pillowcases have been the top selling products in the category on Amazon for over 4 years! 100% long staple cotton is breathable to keep you cool in the summer and dry and warm in the winter. High thread count is perfect for maximum comfort and durability.  Hypoallergenic will reduce allergens. Sateen finish for a smooth surface and luminous sheen.Double stitched seams for quality and durability.Easy care - wash in warm water, dry on medium heat, and take out of the dryer as soon as they are done, or just before they are fully dry. 100% Money Back Guarantee! If you are at all unsatisfied, simply let us know and you will receive a full refund - no questions asked!  Includes: Two pillowcases with "Z" stitched hem</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pillowcases Wholesale</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549149122712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">484.50</s:price>
+      <s:sku>VTC - ZH Pillowcase 2 - S - Sage - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549148991640</id>
+    <published>2021-03-01T03:23:04-05:00</published>
+    <updated>2021-03-01T03:23:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/wholesale-box-of-60-pillowcases-lilac-100-cotton-high-thread-count-pillow-cases-single-needle-hem-stitch-king-21x40-fits-20x36-pillow"/>
+    <title>Wholesale box of 60 Pillowcases (Lilac). 100% Cotton, High Thread Count Pillow Cases, Single Needle Hem Stitch, King 21x40 (fits 20x36 Pillow)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_7cecd90f-cc02-4d44-afe2-8b38dbe39638.jpg?v=1614586985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            242.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our products have been the top selling products in the category on Amazon for over 4 years! 100% long staple cotton is breathable to keep you cool in the summer and dry and warm in the winter. High thread count is perfect for maximum comfort and durability.  Hypoallergenic will reduce allergens. Sateen finish for a smooth surface and luminous sheen.Double stitched seams for quality and durability.Easy care - wash in warm water, dry on medium heat, and take out of the dryer as soon as they are done, or just before they are fully dry. 100% Money Back Guarantee! If you are at all unsatisfied, simply let us know and you will receive a full refund - no questions asked!  Includes: Two pillowcases with single needle hem</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pillowcases Wholesale</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549148991640</id>
+      <title>Default Title</title>
+      <s:price currency="USD">242.25</s:price>
+      <s:sku>VTC - SN Pillowcase 2 - K - Lilac - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549148500120</id>
+    <published>2021-03-01T03:22:36-05:00</published>
+    <updated>2021-03-01T03:22:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-100-cotton-high-thread-count-luxury-set-of-pillow-cases-standard-21x30-fits-20x26-pillow-mixed-shades-ash-gray"/>
+    <title>American Pillowcase 100% Cotton, High Thread Count, Luxury Set of Pillow Cases, Standard 21x30 (fits 20x26 Pillow) - Pick Size and Color</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_3aa0ac77-b1c3-4d27-9f96-bb482bbf0846.jpg?v=1614586957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            969.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Pillowcases are the top selling products in the category online for over 4 years! 100% long staple cotton is breathable to keep you cool in the summer and dry and warm in the winter. High thread count is perfect for maximum comfort and durability. Hypoallergenic will reduce allergens. Sateen finish for a smooth surface and luminous sheen. Double stitched seams for quality and durability. Easy care - wash in warm water, dry on medium heat, and take out of the dryer as soon as they are done, or just before they are fully dry. Includes: Two pillowcases with single needle hem. Colors may vary from one pair to the next.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Pillowcases</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549148500120</id>
+      <title>Default Title / Default Title</title>
+      <s:price currency="USD">969.00</s:price>
+      <s:sku>VTC-ZH Pillowcase 2 - S - AshGray - Case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549148434584</id>
+    <published>2021-03-01T03:22:33-05:00</published>
+    <updated>2021-03-01T03:22:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/wholesale-box-of-144-polycotton-standard-size-pillowcases-white-200-thread-count-21x30-white-fits-20-x26-pillow-perfect-for-physical-therapy-clinics-hotels-camps"/>
+    <title>Wholesale Box of 144 Polycotton Standard Size Pillowcases, White 200 Thread Count, 21&quot;x30&quot; White (Fits 20&quot; X26&quot; Pillow), Perfect for Physical Therapy Clinics, Hotels, Camps</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_11edb997-7010-4090-bf87-0c9d03ef094a.jpg?v=1623909012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            356.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase has been selling hotel quality pillowcases for 15 years. These pillowcases are great for hotels, Airbnb, camps, crafts, physical therapy clinics, embroidery. Please check your pillow size to make sure you order the correct size.<br><br>These are 200 thread count, hotel-quality pillowcases made of 60% cotton and 40% polyester for cotton-rich comfort. Ring-spun yarn construction provides strength, smoothness, and softness.<br><br>These are great if you want less wrinkling than cotton. If you want to print on them or tie dye them, 100% cotton works better, but these work as well. We also sell 100% cotton pillowcases and brushed microfiber pillowcases in other listings.<br><ul>
+<li>HOTEL QUALITY – 200 thread count, bright white, 2” hem, strong percale weave.</li>
+<li>WRINKLE RESISTANCE &amp; EASY CARE – 60% cotton 40% polyester makes long-lasting with no ironing needed yet still comfortable. Machine wash and dry</li>
+<li>OTHER OPTIONS – We also sell wholesale, bulk packed 100% cotton and brushed microfiber pillowcases in other listings</li>
+<li>STANDARD SIZE – 21”x30“ (fits 20”x26” pillow) - 2 Dozen</li>
+<li>Great for hotels, Airbnb, camps, crafts, physical therapy clinics, and embroidery</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pillowcases Wholesale</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549148434584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">356.40</s:price>
+      <s:sku>Box_of_144_std_polycotton_pillowcases</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549148205208</id>
+    <published>2021-03-01T03:22:28-05:00</published>
+    <updated>2021-03-01T03:22:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-bath-towels-sets-luxury-hotel-and-spa-quality-collection-white"/>
+    <title>SALBAKOS Bath Towels Sets Luxury Hotel and Spa Quality Collection (White)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_20023f0d-6254-4c23-b1df-7b3c6a2cf5fb.jpg?v=1614586949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            237.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">American Pillowcase has been selling Turkish cotton bath towels for more than 15 years and contracts with only the very best mills in Turkey. Presently American Pillowcase has 5 of the top selling pure cotton bath towels on Amazon. This can't be done without continually providing superb products at great prices. Bath towels made in Turkey are softer and more durable because it is the only country which does not use any bleach in the manufacturing process, including our hotel collection white towels. SALBAKOS luxury cotton towels are great to take to the gym for a workout. You will immediately recognize the quality, much like that of hair towels found at a high end salon. All Turkish bath towels are vat-dyed which means the dye is infused into the yarns under high pressure and high temperature for 6-12 hours depending upon the color. This limits any fading of even the brightest colors. Even our pure white bath towels are dyed white, not bleach white. For maximum color retention and softness, do not use any bleach when washing these Turkish cotton towels. You will feel the softness immediately, and these towels will continually get softer with each washing. And thanks to using only the finest Turkish cotton and double-stitching all the hems, the durability is unequaled. These bath towels should last you many years! In addition, these luxury spa-quality bath towels are made in an Oeko-Tex and ISO 9001 mill. This means that all materials must be chemical-free and pesticide-free and that the mill operates at the highest quality standards and is audited regularly.<br><ul>
+<li>100% Genuine Turkish Cotton</li>
+<li>IMPORTED FROM DENIZLI TURKEY</li>
+<li>☁ THE #1 THICK, SOFT, AND FLUFFY TOWELS - If you are looking for the softest luxury bath towels, then you have found the winner with our Salbakos 4-piece Bathroom Towels. They are 700 GSM and a full pound heavier than other luxury hotel bath towels. Enjoy super absorbent, premium bathroom towels for your home today!</li>
+<li>💯 ENJOY THE BEST TURKISH COTTON TOWELS IN THE WORLD - Did you know our Luxury Hotel &amp; Spa Collection Bath Towels are the softest bathroom towels you will ever own? Unlike most towels that get coarse and rough after a few washes, our high-performance luxury hotel towel sets are made with 100% genuine Turkish cotton that gets softer with each use</li>
+<li>☁ UPGRADE YOUR BATHROOMS WITH LUXURY HOTEL &amp; SPA TOWELS - Do you want to upgrade the style and luxury of your home bathrooms? Our extra large towels are 27" x 54" and are much heavier than your average bath towel. The high quality, size, and deluxe 700 GSM makes all the difference in your experience</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549148205208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>CambridgeWhite - BathTowel - Box of 24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549148074136</id>
+    <published>2021-03-01T03:22:24-05:00</published>
+    <updated>2021-03-01T03:22:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/classic-turkish-towels-luxury-bath-towel-set-soft-and-thick-oversized-ribbed-bathroom-towels-made-with-100-turkish-cotton"/>
+    <title>Classic Turkish Towels Luxury Bath Towel Set - Soft and Thick Oversized Ribbed Bathroom Towels Made with 100% Turkish Cotton</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_122ef3dd-45e7-4863-94f1-42116a22591c.jpg?v=1614586945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Luxury Bath Towel Collection Set - Combed Cotton Hotel and Spa Quality Bath Towels - Made with 100% Turkish Cotton Jacquard Rib Style - Made in Turkey (27X54 Bath Towels, Grey)Our Brampton Collection is one of our most luxurious towels yet. Using 100% Turkish combed cotton, our towels will feel soft and plush the instance you touch them. Made with a beautiful and elegant ribbed Jacquard design, our towels will be sure to impress. Our bright optical colors will brighten up your day and any room. Spoil and pamper yourself when you wrap yourself around one of our luxurious bath towels. The Brampton Collection is made for royalty but pay only a fraction of the price by purchasing direct from the manufacturer!ClassicTurkishTowels: All our towels are manufactured and imported from our very own mills in Turkey. We also sell our own line of high end towels, robes, and bath sheets all made with 100% Turkish Cotton. We always use 100% chemical-free high quality unprocessed Turkish combed cotton in all our products.Turkish cotton is prized for its natural long lasting soft texture and luster, which naturally grows in longer, more narrow fibers. This results in more threads per square inch and a natural softer texture without any chemical processing! No other cotton fiber is as naturally soft, absorbent or lustrous without any chemical processing.All purchases are shipped from our own warehouses in the US, so you’ll never wait long for your order. Buy direct from us and save! We stand behind all of our products and accept all unused returns. Please contact us directly so we can accommodate you. Looking for something specific? Contact us and let us know!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549148074136</id>
+      <title>Default Title / Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>BramptonBT2pkBlue_FBM</s:sku>
+      <s:grams>1184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549143486616</id>
+    <published>2021-03-01T03:18:25-05:00</published>
+    <updated>2021-03-01T03:18:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/college-colors-pillowcases-100-brushed-microfiber-hypoallergenic-pillow-cover-dorm-bedding-soft-stain-fade-and-wrinkle-resistant-standard-20x30-2-pack-purple"/>
+    <title>College Colors Sheets and Pillowcases, 100% Brushed Microfiber, Hypoallergenic, Soft, Stain-, Fade- and Wrinkle-Resistant - Pick One</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_c66a162c-5e7c-4b5d-af8b-3e9df00e1e0e.jpg?v=1628963179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.42 - 21.00
+            <a href="https://americanpillowcase.com/products/college-colors-pillowcases-100-brushed-microfiber-hypoallergenic-pillow-cover-dorm-bedding-soft-stain-fade-and-wrinkle-resistant-standard-20x30-2-pack-purple">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add some luxurious comfort to your dorm room with this American Pillowcase Microfiber Flat Sheet. With thousands of possible color combinations, you're sure to find the perfect color scheme to express your school spirit. These sheets are made of 100% double brushed Microfiber for that silky smooth, peach-fuzz feel. Comparable to 5-star hotel materials, these breathable linens are hypoallergenic and even prevent dust mite issues. The stylish colors are great for any season; they'll keep you cool on those hot summer nights, and warm in the darkest of winters. The durable construction of these sheets ensure they're long-lasting and will maintain their stain, fade, and wrinkle resistant qualities wash after wash.<br><br>Includes: 1  72"x104" Flat Sheet<br><br>College Color Flat Sheet<br><br>Add some style to your dorm room with these American Pillowcase College Color Sheets. Fully express yourself with thousands of possible color combinations.  These sheets are made of 100% double brushed Microfiber for that silky smooth, peach-fuzz feel.<br><br>Durable Quality; Built Tough<br><br>These durable sheets are long-lasting and affordable.  Their lightweight, yet long lasting material is perfect for those with allergies. These breathable sheets are hypoallergenic and even prevent dust mite issues. The microfiber material helps reduce allergy reaction and respiratory irritation.  When paired with regular washings, these sheets are sure to meet those hypoallergenic needs.<br><br>Care Instructions<br><br>When it is time to wash your microfiber sheets, simply toss them into an ordinary washing machine with hot or warm water and mild detergent.  Washing at a warmer temperature allows the microfibers to expand, releasing trapped dirt and micro particles.<br><br>Air dry is best for these products since microfiber dries relatively quickly.  If you do need to use a dryer, set it on low or no heat.<br><ul>
+<li>Ultra Soft, Wrinkle-free 1500 Brushed Microfiber</li>
+<li>Maryland, Boston College</li>
+<li>72"x104" FLAT SHEET DORM TWIN XL. Extra large, do not come untucked</li>
+<li>SILKY SMOOTH peach-fuzz feel, comfortable all year round</li>
+<li>EASY TO MAINTAIN AND WRINKLE FREE Machine washable and wrinkle free.</li>
+<li>QUALITY GUARANTEED. Simply return for a full refund in not completely satidfied</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>College Colors</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Black / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Black</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Blue 2368 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Blue 2386</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Blue 2368 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Blue 2386</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Blue 2368 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Blue 2386</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Blue 287 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Blue 287</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Blue 287 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Blue 287</s:sku>
+      <s:grams>391</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Blue 287 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">13.54</s:price>
+      <s:sku>Microfiber CC Flat TXL - Blue 287</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Blue 289 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Blue 289</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Cream / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Cream</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Dark Orange / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Dk Orange</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Dark Orange / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Dk Orange</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Gray 424 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Gray 424</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Gray 424 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Gray 424</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Gray 430 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Gray 430</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Gray 430 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Gray 430</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Light Orange / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Lt Orange</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Light Red / Standard - 2 Pack</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku>Microfiber CC PC-S - Lt Red</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Maroon 195 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Maroon 195</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Maroon 195 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Maroon 195</s:sku>
+      <s:grams>394</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Maroon 195 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Maroon 195</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 158 / Standard - 2 Pack</title>
+      <s:price currency="USD">9.44</s:price>
+      <s:sku>Microfiber CC PC-S - Orange 158</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 158 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Orange 158</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 159 / Standard - 2 Pack</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>Microfiber CC PC-S - Orange 159</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 159 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Orange 159</s:sku>
+      <s:grams>391</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 159 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Orange 159</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 165 / Standard - 2 Pack</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>Microfiber CC PC-S - Orange 165</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 165 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Orange 165</s:sku>
+      <s:grams>391</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Orange 165 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Orange 165</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 186 / Standard - 2 Pack</title>
+      <s:price currency="USD">9.44</s:price>
+      <s:sku>Microfiber CC PC-S - Red 186</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 186 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Red 186</s:sku>
+      <s:grams>394</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 186 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Red 186</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 200 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Red 200</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 200 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Red 200</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 200 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Red 200</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 201 / Standard - 2 Pack</title>
+      <s:price currency="USD">9.78</s:price>
+      <s:sku>Microfiber CC PC-S - Red 201</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 201 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Red 201</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Red 201 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Red 201</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Tan 465 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Tan 465</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Tan 465 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Tan 465</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Tan 468 / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Tan 468</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Tan 468 / Twin XL - Fitted Sheet</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>Microfiber CC Fitted TXL - Tan 468</s:sku>
+      <s:grams>391</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>Tan 468 / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Tan 468</s:sku>
+      <s:grams>472</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>White / Standard - 2 Pack</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - White</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549143486616</id>
+      <title>White / Twin XL - Flat Sheet</title>
+      <s:price currency="USD">12.30</s:price>
+      <s:sku>Microfiber Flat Sheet DP White Twin</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549142896792</id>
+    <published>2021-03-01T03:17:48-05:00</published>
+    <updated>2021-03-01T03:17:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-luxury-hotel-spa-turkish-cotton-12-piece-eco-friendly-washcloth-set-for-bath-13-x-13-inch-navy"/>
+    <title>SALBAKOS Luxury Hotel &amp; Spa Turkish Cotton 12-Piece Eco-Friendly Washcloth Set for Bath, 13 x 13 Inch - Pick Size and Color</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_9f46064f-1afc-4516-96d0-e4d86870b180.jpg?v=1614926652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.32 - 26.50
+            <a href="https://americanpillowcase.com/products/salbakos-luxury-hotel-spa-turkish-cotton-12-piece-eco-friendly-washcloth-set-for-bath-13-x-13-inch-navy">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100% Genuine Turkish Cotton  SALBAKOS Towels are made in Turkey creating softer and more durable towels because it is the only country which does not use any bleach in the manufacturing process. You will feel the softness immediately and will find the perfect color to match your home décor! With Turkish Cotton, the cotton fiber open up more and the towel actually gets softer over time.  Complete The Set With many styles and 16 colors of 100% Genuine Turkish Cotton Towels, SALBAKOS provides the complete package of washcloths, bath towels, hand towels, bath sheets and bath mats to meet all your needs.<br><br>Hand Towels measure 16 x 30 Inches<br><br>Washcloths measure 13 x 13 Inches<br><br>Bath Sheets measure 35 x 75 Inches<br><br>Bath Towels measure 27 x 54 Inches<br><br>Bath Mats measure 20 x 30 Inches<br><br><br>Q1: Can you use bleach on these towels? A1: No, please do not use bleach on these towels. The bleach will dis-color the colored towels and will make fine cotton less soft and break down the cotton fiber for a shorter life.<br><br>Q2: Are SALBAKOS towels chemical free?<br><br>A2:<br><br>Q3: Can I use fabric softener on these towels?<br><br>A3:<br><br>Q4: Do these towels shrink after first wash and dry?<br><br>A4:<br><br>Premium Quality Design  SALBAKOS towels are designed and engineered with double-stitching on the hems creating a durability that is is un-equaled. These towels should provide you many years of comfort and luxury!  All Bath Towels you buy from SALBAKOS are made using the highest quality cotton / yarns. These yarns are spun using only long staple cotton making these extremely soft and durable.<br><br>Washing Instructions  To ensure that your towels stay soft and hold their color, we recommend following these Washing Instructions.<br><br>Before use, we recommend removing excess lint and shedding on the towel<br><br>Towels can be washed in warm or cold water<br><br>Wash before use for the first time as this will get rid of the excess lint and shedding leftover<br><br>Wash Towels alone, do not include with other clothes/loads/colors<br><br>Do not use bleach or fabric softener at any stage of the washing process, this will strip the color away from the towels and will break down the cotton fiber<br><br>We recommend washing towels after 3-4 uses - the more often the better, this helps create a softer, more luxurious feel<br><br><br>Drying Instructions  To ensure that your towels last the test of time we recommend following these Drying Instructions.<br><br>Dry towels right after they come out of the wash to prevent dampness and lingering smell<br><br>Tumble dry on low/medium heat<br><br>Do not Iron the towels to prevent burning and cotton degradation<br><br>Take towels out when they are 95% dry to prevent over-heating<br><br>Wash and Dry 2/3 times before use to ensure maximum absorbency<br><br><br>100% Genuine Turkish Cotton<br>IMPORTED FROM DENIZLI TURKEY<br>12 Luxury Wash Cloths 13"x13" - Aqua<br>Matching bath sheets (B00IM23ST8), bath towels (B00GEGLB5C), hand towels (B00KQQTW0W), bath mats (B00J1O3BZ2), and 6 piece sets (B00K6ORZ6C) available . Type in number in () into Amazon search box.<br>All hems are double-stitched for extra durability<br>Oeko-Tex and ISO 9001. All Materials are Pesticide and Harmful Chemical Free!<br>White is vat dyed for 6+ hours so will remain bright<br><ul>
+<li>CLEAN UP IN LUXURY - These wash cloths measure 13" x 13" and are made of the coziest, combed Turkish cotton. These absorbent, eco-friendly washcloths are created to withstand use after use.</li>
+<li>BRIGHT COLORS THAT LAST - To ensure years of vibrant color, these towels are VAT dyed. This means the dye is infused into the yarns under high pressure and temperature for 6-12 hours.</li>
+<li>ECO-FRIENDLY AND HIGHEST QUALITY – OEKO-TEX Certified - all cotton is grown and all manufacturing processes use no harmful chemicals. Manufactured in an ISO-9001 mill for incredible quality control. See pictures for copies of certifications and below for more on OEKO-TEX</li>
+<li>SOFTER AFTER EACH WASH - These wash cloths are as absorbent as traditional wash cloths, but unlike many others, these will actually get softer and softer with each wash.</li>
+<li>MONEY BACK GUARANTEE – Our company stands behind its products. You can return any defective product hassle-free.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Aqua / Washcloth - Qty 12</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CambridgeAqua-WashCloth-v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Blue / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Blue - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Chocolate / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Chocolate - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Gray / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Gray - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Navy / Washcloth - Qty 12</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Cambridge Navy - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Seafoam Green / Washcloth - Qty 12</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Cambridge Seafoam Green - Washcloths</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>Taupe / Washcloth - Qty 12</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>Cambridge Taupe - Wash Cloth - v2</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142896792</id>
+      <title>White / Washcloth - Qty 12</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>Cambridge White - Washcloths</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549142569112</id>
+    <published>2021-03-01T03:17:32-05:00</published>
+    <updated>2021-03-01T03:17:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/salbakos-kimono-robes-100-turkish-cotton-with-and-without-hood-options"/>
+    <title>SALBAKOS Kimono Robes - 100% Turkish Cotton - with and Without Hood Options</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_fa42d3ba-e3b7-4dce-ab2d-a14f8ce5daa7.jpg?v=1614586652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            37.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lightweight Unisex White Kimono Bathrobe with Hood - Made with 100% Turkish Cotton Discover the sensation of feeling the ultimate comfort when you wrap yourself in our 100% Turkish combed cotton plush terry robes. Our ultra plush and super soft cotton robes will give you the best sense of relaxation and security when stepping out of the shower. Because our fabric is measured by grams, we designed our robes to be the perfect weight for versatility. Perfect for staying warm during the cold months and cozy enough to lounge around in any room of the house, they are also excellent for absorbency without sacrificing any of the comfort. Our luxury robes also dry quickly to save you money on energy! Our premium turkish cotton robes are featured in some of the best hotels across the country. They also make a great gift for any occasion. Or take one home yourself for the ultimate experience in comfort! Easy Care Instructions Machine wash cold water on gentle cycle. Do not use bleach (bleaching may weaken fabric &amp; cause yellowing). Do not use fabric softener. Wash dark colors separately. To minimize shrinkage, tumble dry on low heat. Size Chart: S/M - 46" Length / 22" Closed Chest / 49" Sweep M/L - 48" Length / 25" Closed Chest / 53" Sweep L/XL - 50" Length / 28" Closed Chest / 57" Sweep<br><ul>
+<li>ULTIMATE IN LUXURY &amp; STYLE - 100% Genuine Turkish Cotton, Gets Softer With Each Wash</li>
+<li>5 STAR HOTEL &amp; SPA QUALITY - Vat Dyed for the Most Vibrant Colors and Unparalleled Fade-Resistance</li>
+<li>MANY USES &amp; VARIOUS SIZES - These Luxury Bath Robes are Perfect for Men and Women with sizes for everyone, whether at home, at the pool, or a relaxing</li>
+<li>OEKO-TEX« and ISO 9001. All Materials are Pesticide and Harmful Chemical Free!</li>
+<li>100% SATISFACTION GUARANTEED - SALBAKOS Robes are Priced Lower and Nicer Quality than LL Bean and others</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Robes</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142569112</id>
+      <title>Default Title / Default Title</title>
+      <s:price currency="USD">37.09</s:price>
+      <s:sku>Cotton Robe - Kimono w Hood - ML - White</s:sku>
+      <s:grams>1039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549142175896</id>
+    <published>2021-03-01T03:17:15-05:00</published>
+    <updated>2021-03-01T03:17:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-microfiber-cc-100-brushed-microfiber"/>
+    <title>American Pillowcase Microfiber CC 100% Brushed Microfiber</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_9c1e588b-b6ca-4417-b8ec-b0849d6c5e05.jpg?v=1614586635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add some luxurious comfort to your dorm room with this American Pillowcase Microfiber Flat Sheet. With thousands of possible color combinations, you're sure to find the perfect color scheme to express your school spirit. These sheets are made of 100% double brushed Microfiber for that silky smooth, peach-fuzz feel. Comparable to 5-star hotel materials, these breathable linens are hypoallergenic and even prevent dust mite issues. The stylish colors are great for any season; they'll keep you cool on those hot summer nights, and warm in the darkest of winters. The durable construction of these sheets ensure they're long-lasting and will maintain their stain, fade, and wrinkle resistant qualities wash after wash.<br><br>Includes: 1  72"x104" Flat Sheet<br><br>College Color Flat Sheet<br><br>Add some style to your dorm room with these American Pillowcase College Color Sheets. Fully express yourself with thousands of possible color combinations.  These sheets are made of 100% double brushed Microfiber for that silky smooth, peach-fuzz feel.<br><br>Durable Quality; Built Tough<br><br>These durable sheets are long-lasting and affordable.  Their lightweight, yet long lasting material is perfect for those with allergies. These breathable sheets are hypoallergenic and even prevent dust mite issues. The microfiber material helps reduce allergy reaction and respiratory irritation.  When paired with regular washings, these sheets are sure to meet those hypoallergenic needs.<br><br>Care Instructions<br><br>When it is time to wash your microfiber sheets, simply toss them into an ordinary washing machine with hot or warm water and mild detergent.  Washing at a warmer temperature allows the microfibers to expand, releasing trapped dirt and micro particles.<br><br>Air dry is best for these products since microfiber dries relatively quickly.  If you do need to use a dryer, set it on low or no heat.<br><ul>
+<li>Ultra Soft, Wrinkle-free 1500 Brushed Microfiber</li>
+<li>Maryland ,LSU, Arizona State, Michigan</li>
+<li>72"x104" FLAT SHEET DORM TWIN XL. Extra large, do not come untucked</li>
+<li>SILKY SMOOTH peach-fuzz feel, comfortable all year round</li>
+<li>EASY TO MAINTAIN AND WRINKLE FREE Machine washable and wrinkle free.</li>
+<li>QUALITY GUARANTEED. Simply return for a full refund in not completely satidfied</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Brushed Microfiber</s:tag>
+    <s:tag>Pillowcases</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549142175896</id>
+      <title>Default Title / Default Title</title>
+      <s:price currency="USD">12.65</s:price>
+      <s:sku>Microfiber CC Flat TXL - Yellow Gold</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549141979288</id>
+    <published>2021-03-01T03:17:08-05:00</published>
+    <updated>2021-03-01T03:17:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-fitted-sheet-only-100-brushed-microfiber-deep-pocket-pieces-sold-separately-for-set-guarantee-twin-xl-deep-pocket-ivory"/>
+    <title>American Pillowcase 100% Brushed Microfiber Sheets or Sheet Sets, Deep Pocket, Pick Size and Color</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_d9c147ee-8aff-4219-b960-61066c889ef8.jpg?v=1614926681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.97 - 38.99
+            <a href="https://americanpillowcase.com/products/american-pillowcase-fitted-sheet-only-100-brushed-microfiber-deep-pocket-pieces-sold-separately-for-set-guarantee-twin-xl-deep-pocket-ivory">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add some luxurious comfort to your bedroom with American Pillowcase Microfiber Bed Sheets. These sheets are made of 100% double brushed Microfiber for that silky smooth, peach-fuzz  feel. Comparable to 5-star hotel materials, these breathable sheets are hypoallergenic and even prevent dust mite issues. The stylish sheets are great for any season; they'll keep you cool on those hot summer nights, and warm in the darkest of winters. The durable linens are long-lasting and will maintain their HIGH-QUALITY wash after wash; keeping their stain, fade, and wrinkles resistant qualities.<br><br>Includes: A 54 x 75 Inch Full Microfiber Fitted Sheet with Deep 18 Inch Pockets<br><br>Microfiber Fitted Sheets<br><br>These fitted sheets have been pre-shrunk, with 18-inch pockets deep enough to easily install over your mattress without worry of it slipping up. To help ensure the fitted sheets stay put, elastic is installed all the way around the edges of the sheets, rather than just in the corners. Thanks to the expert finishing, the fabric's silky softness and smoothness is the perfect addition to your bedroom decor.<br><br>Durable Quality; Built Tough<br><br>These durable sheets are long-lasting and affordable. Their lightweight, yet long lasting material is perfect for those with allergies. These breathable sheets are hypoallergenic and even prevent dust mite issues. The microfiber material helps reduce allergy reaction and respiratory irritation.  When paired with regular washings, these sheets are sure to meet those hypoallergenic needs.<br><br><img alt="pillowcase pillow case microfiber micro fiber quantity discount dozen value pack" src="https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A3SNUI6YDMT23L/ca33d664-b5fe-46cd-b405-f6052038a005._CR0,0,300,300_PT0_SX300__.jpg"><br><br><img alt="care instructions microfiber pillowcase pillow case dozen value pack quantity discount" src="https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A3SNUI6YDMT23L/1600bce0-ee9a-47f6-9834-fcd9774040e5._CR0,0,300,300_PT0_SX300__.jpg"><br><br>Wrinkle and Stain Resistant<br><br>This material is processed in a way that makes this durable fabric maintain their overall brightness and shape for longer periods of time.  Additionally, this helps the linens stay wrinkle free and let you enjoy a smooth finish.<br><br>The tight weave of these microfibers prevents liquids from soaking in immediately, helping keep these fabrics stain resistant.  Quickly clean up your spill before it has a chance to soak in and your sheet will remain stain free.<br><br>Care Instructions<br><br>When it is time to wash your pre-shrunk sheets, simply toss them into an ordinary washing machine with hot or warm water with mild detergent.  Washing at a warmer temperature allows the microfibers to expand, releasing trapped dirt and micro particles.<br><br>Air dry is best for these products since microfiber dries relatively quickly.  If you do need to use a dryer, set it on low or no heat.<br><ul>
+<li>100% Brushed Microfiber - Super Soft, Stain and Wrinkle Resistant</li>
+<li>FULL SIZE FITTED SHEET 54"x75" - Deep 18" pockets, Qty 1, Blue</li>
+<li>BRIGHT, VIBRANT COLORS - Matching Flat Sheets and Pillowcases sold separately</li>
+<li>SOFT, BREATHABLE, LIGHTWEIGHT - Cool in the Summer and warm in the Winter</li>
+<li>WRINKLE, FADE, STAIN RESISTANT - No ironing needed</li>
+<li>EASY CARE INSTRUCTIONS: Wash separately. Do not bleach or use fabric softener. Quick Drying</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed Sheets</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Brushed Microfiber</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141979288</id>
+      <title>Black / CalKing - Deep Pocket</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>Microfiber Fitted Sheet DP Black CalK</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141979288</id>
+      <title>Blue / Full - Deep Pocket</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>Microfiber Fitted Sheet DP Lt Blue Full</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141979288</id>
+      <title>Gray / King - Deep Pocket - Set</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>Microfiber 4pc Sheet Set Gray King</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141979288</id>
+      <title>Gray / Queen - Deep Pocket - Set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>Microfiber 4pc Sheet Set Gray Queen</s:sku>
+      <s:grams>1433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141979288</id>
+      <title>Ivory / Twin XL - Deep Pocket</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>Microfiber Fitted Sheet DP Ivory Twin XL</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141979288</id>
+      <title>White / King - Deep Pocket - Set</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>Microfiber 4pc Sheet Set White King</s:sku>
+      <s:grams>1669</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141979288</id>
+      <title>White / Queen - Deep Pocket - Set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>Microfiber 4pc Sheet Set White Queen</s:sku>
+      <s:grams>1415</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549141913752</id>
+    <published>2021-03-01T03:17:06-05:00</published>
+    <updated>2021-03-01T03:17:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/college-colors-pillowcases-100-brushed-microfiber-hypoallergenic-pillow-cover-dorm-bedding-soft-stain-fade-and-wrinkle-resistant-standard-20x30-2-pack-yellow-gold"/>
+    <title>College Colors Pillowcases 100% Brushed Microfiber, Hypoallergenic, Soft (Standard 20&quot;x30&quot; - 2 Pack, Yellow Gold)</title>
+    <s:type></s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_a51e966d-e2f5-4cab-8691-2973424937ad.jpg?v=1614586626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add some luxurious comfort to your dorm room with this American Pillowcase Microfiber Pillowcase Set. With thousands of possible color combinations, you're sure to find the perfect color scheme to express your school spirit. These pillowcases are made of 100% double brushed Microfiber for that silky smooth, peach-fuzz feel. Comparable to 5-star hotel materials, these breathable linens are hypoallergenic and even prevent dust mite issues. The stylish colors are great for any season; they'll keep you cool on those hot summer nights, and warm in the darkest of winters. The durable construction of these pillowcases ensure they're long-lasting and will maintain their stain, fade, and wrinkle resistant qualities wash after wash.<br><br>Includes: 2  20"x30" Pillowcases<br><br>College Color Pillowcase Set<br><br>Add some style to your dorm room with this American Pillowcase College Color Pillowcase Set. Fully express yourself with thousands of possible color combinations.  These pillowcases are made of 100% double brushed Microfiber for that silky smooth, peach-fuzz feel.<br><br>Durable Quality; Built Tough<br><br>These durable pillowcases are long-lasting and affordable.  Their lightweight, yet long lasting material is perfect for those with allergies. These breathable pillowcases are hypoallergenic and even prevent dust mite issues. The microfiber material helps reduce allergy reaction and respiratory irritation.  When paired with regular washings, these pillowcases are sure to meet those hypoallergenic needs.<br><br>Care Instructions<br><br>When it is time to wash your microfiber pillowcases, simply toss them into an ordinary washing machine with hot or warm water and mild detergent.  Washing at a warmer temperature allows the microfibers to expand, releasing trapped dirt and micro particles.<br><br>Air dry is best for these products since microfiber dries relatively quickly.  If you do need to use a dryer, set it on low or no heat.<br><ul>
+<li>Ultra Soft, Wrinkle-free 1500 Brushed Microfiber</li>
+<li>Maryland ,LSU, Arizona State, Michigan</li>
+<li>PILLOWCASE Set, Standard Size 21"x30" , Quantity 2</li>
+<li>A DIFFERENCE YOU CAN FEEL Brushed microfiber fabric gives a silky smooth, peach-fuzz feel</li>
+<li>EASY TO MAINTAIN AND WRINKLE FREE Machine washable and fast drying</li>
+<li>VIVID COLORS, FADE RESISTANT, HYPOALLERGENIC</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>College Colors</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549141913752</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Microfiber CC PC-S - Yellow Gold</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

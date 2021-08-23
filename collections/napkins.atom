@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://americanpillowcase.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://americanpillowcase.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://americanpillowcase.com/collections/napkins.atom"/>
+  <title>American Pillowcase</title>
+  <updated>2021-03-01T03:16:21-05:00</updated>
+  <author>
+    <name>American Pillowcase</name>
+  </author>
+  <entry>
+    <id>https://americanpillowcase.com/products/6549140340888</id>
+    <published>2021-03-01T03:16:21-05:00</published>
+    <updated>2021-03-01T03:16:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://americanpillowcase.com/products/american-pillowcase-egyptian-cotton-hemstitch-dinner-napkins"/>
+    <title>American Pillowcase Egyptian Cotton Hemstitch Dinner Napkins - Pick Color</title>
+    <s:type>Home</s:type>
+    <s:vendor>American Pillowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0013/8775/7686/products/medium_a481b711-90d7-4661-8d74-2a863a4edf9f.jpg?v=1614926622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Pillowcase<br>
+        <strong>Type: </strong>Home<br>
+        <strong>Price: </strong>
+            36.93 - 975.00
+            <a href="https://americanpillowcase.com/products/american-pillowcase-egyptian-cotton-hemstitch-dinner-napkins">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These are beautiful, 100% long staple Egyptian cotton napkins.  Perfect for elegant dinner parties or everyday use.  These are sold to hotels and restaurants throughout the world and are made to withstand many washings in a commercial laundry, so they should last a long time in your home. Great for all weddings and dinner parties. In most cases these are more affordable than renting.<br><br>Hemstitch Dinner Napkins   20"x 20"<br><br>Own these superior quality cotton napkins for less than you can rent them. Our elegant napkins are a perfect addition to your dinner service. Choose from Hemstitch or Satin Band knowing you’re getting beautiful, durable, long lasting napkins.<br><br>Beautiful Egyptian Cotton<br><br>The beautiful Egyptian cotton used in these napkins will ensure lasting beauty and quality. These napkins come slightly starched from the factory, this allows them to be cut and sewn perfectly. We recommend they be washed before being used.  They will continually get softer with every wash.<br><br>Care Instructions<br><br>When its time to wash your napkins simply toss them in your washer on a cold setting with a detergent of your choice.<br><br>Machine dry on medium heat. Remove your napkins when they are 95% dry and iron slightly for a beautiful crisp finish.<br><ul>
+<li>100% COTTON – Nearly all napkins selling online are polyester. These will get softer over time</li>
+<li>ELEGANT – Beautiful hemstitched, mitered corners, and a linen look will add class to your table</li>
+<li>AFFORDABLE – Buying is less expensive than renting just once for an event</li>
+<li>PRE-SHUNK - 20"x20". Unlike most napkins, these are pre-shrunk and will remain square</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Egyptian Cotton</s:tag>
+    <s:tag>Napkins</s:tag>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140340888</id>
+      <title>Ivory / 12</title>
+      <s:price currency="USD">36.93</s:price>
+      <s:sku>Hemstitch Napkins 12 Ivory</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://americanpillowcase.com/products/6549140340888</id>
+      <title>Off-White / 300</title>
+      <s:price currency="USD">975.00</s:price>
+      <s:sku>Hemstitch Napkins 300 - White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
